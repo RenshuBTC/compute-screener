@@ -71,4 +71,4 @@ Prices are information about posted prices.
 
 ## Contact
 
-[computescreener.com/support](https://computescreener.com/support) · [@RenshuBTC](https://x.com/RenshuBTC) on X
+[computescreener.com/support](https://computescreener.com/support) · [@RenshuTan](https://x.com/RenshuTan) on X
