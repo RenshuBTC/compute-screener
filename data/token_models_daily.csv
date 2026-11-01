@@ -57,6 +57,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Alibaba,Qwen3.7 Flash,qwen/qwen3.7-flash,0.03,0.13,0.055,0.263,0.006,0.01012
 2026-10-29,Alibaba,Qwen3.7 Flash,qwen/qwen3.7-flash,0.03,0.13,0.055,0.2431,0.006,0.01012
 2026-10-30,Alibaba,Qwen3.7 Flash,qwen/qwen3.7-flash,0.03,0.13,0.055,0.2754,0.006,0.01012
+2026-10-31,Alibaba,Qwen3.7 Flash,qwen/qwen3.7-flash,0.03,0.13,0.055,0.3521,0.006,0.01012
 2026-08-20,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.2422,0.085,0.15045
 2026-08-21,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.2733,0.085,0.15045
 2026-08-25,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.4775,0.085,0.15045
@@ -108,6 +109,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.3179,0.085,0.15045
 2026-10-29,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.3466,0.085,0.15045
 2026-10-30,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.352,0.085,0.15045
+2026-10-31,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.3535,0.085,0.15045
 2026-08-29,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.2859,0.016,0.03662
 2026-08-30,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.3764,0.016,0.03662
 2026-09-05,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.5075,0.016,0.03662
@@ -161,6 +163,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.4192,0.016,0.03662
 2026-10-29,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.4103,0.016,0.03662
 2026-10-30,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.3726,0.016,0.03662
+2026-10-31,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.2944,0.016,0.03662
 2026-09-05,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,0.4925,0.25,0.5175
 2026-09-06,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,0.3709,0.25,0.5175
 2026-09-07,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,0.6496,0.25,0.5175
@@ -183,6 +186,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,,0.25,0.5175
 2026-10-29,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,,0.25,0.5175
 2026-10-30,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,,0.25,0.5175
+2026-10-31,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,,0.25,0.5175
 2026-09-02,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,0.0919,0.25,1.9175
 2026-09-03,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,0.0869,0.25,1.9175
 2026-09-04,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,0.074,0.25,1.9175
@@ -220,6 +224,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,0.0285,0.25,1.9175
 2026-10-29,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,,0.25,1.9175
 2026-10-30,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,,0.25,1.9175
+2026-10-31,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,,0.25,1.9175
 2026-10-08,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.2035,0.01,0.0257
 2026-10-09,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.1558,0.01,0.0257
 2026-10-10,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.1515,0.01,0.0257
@@ -243,6 +248,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.1956,0.01,0.0257
 2026-10-29,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.2064,0.01,0.0257
 2026-10-30,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.2711,0.01,0.0257
+2026-10-31,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.2651,0.01,0.0257
 2026-09-23,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.2751,0.2,0.854
 2026-09-24,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.2919,0.2,0.854
 2026-09-25,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.3019,0.2,0.854
@@ -281,6 +287,280 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.5057,0.2,0.854
 2026-10-29,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.527,0.2,0.854
 2026-10-30,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.5065,0.2,0.854
+2026-10-31,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.4829,0.2,0.854
+2025-09-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0499,0.3,0.771
+2025-09-30,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4293,0.3,0.771
+2025-10-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4494,0.3,0.771
+2025-10-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5031,0.3,0.771
+2025-10-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5321,0.3,0.771
+2025-10-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5696,0.3,0.771
+2025-10-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5438,0.3,0.771
+2025-10-06,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5128,0.3,0.771
+2025-10-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5534,0.3,0.771
+2025-10-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6187,0.3,0.771
+2025-10-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5739,0.3,0.771
+2025-10-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5792,0.3,0.771
+2025-10-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6286,0.3,0.771
+2025-10-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6828,0.3,0.771
+2025-10-13,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6682,0.3,0.771
+2025-10-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6676,0.3,0.771
+2025-10-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6713,0.3,0.771
+2025-10-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5762,0.3,0.771
+2025-10-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6618,0.3,0.771
+2025-10-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6941,0.3,0.771
+2025-10-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6495,0.3,0.771
+2025-10-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5902,0.3,0.771
+2025-10-21,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6068,0.3,0.771
+2025-10-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5808,0.3,0.771
+2025-10-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6779,0.3,0.771
+2025-10-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6402,0.3,0.771
+2025-10-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6177,0.3,0.771
+2025-10-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6891,0.3,0.771
+2025-10-27,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6915,0.3,0.771
+2025-10-28,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7373,0.3,0.771
+2025-10-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7165,0.3,0.771
+2025-10-30,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7148,0.3,0.771
+2025-10-31,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7149,0.3,0.771
+2025-11-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7478,0.3,0.771
+2025-11-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7427,0.3,0.771
+2025-11-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7409,0.3,0.771
+2025-11-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6887,0.3,0.771
+2025-11-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7107,0.3,0.771
+2025-11-06,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7092,0.3,0.771
+2025-11-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7484,0.3,0.771
+2025-11-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7901,0.3,0.771
+2025-11-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7385,0.3,0.771
+2025-11-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6789,0.3,0.771
+2025-11-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7125,0.3,0.771
+2025-11-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7038,0.3,0.771
+2025-11-13,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7154,0.3,0.771
+2025-11-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6746,0.3,0.771
+2025-11-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.699,0.3,0.771
+2025-11-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.8174,0.3,0.771
+2025-11-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6924,0.3,0.771
+2025-11-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6986,0.3,0.771
+2025-11-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6958,0.3,0.771
+2025-11-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6892,0.3,0.771
+2025-11-21,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7027,0.3,0.771
+2025-11-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7359,0.3,0.771
+2025-11-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7066,0.3,0.771
+2025-11-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.7065,0.3,0.771
+2025-11-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5907,0.3,0.771
+2025-11-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5715,0.3,0.771
+2025-11-27,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5949,0.3,0.771
+2025-11-28,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5343,0.3,0.771
+2025-11-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5337,0.3,0.771
+2025-11-30,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5383,0.3,0.771
+2025-12-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5379,0.3,0.771
+2025-12-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5394,0.3,0.771
+2025-12-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.524,0.3,0.771
+2025-12-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.52,0.3,0.771
+2025-12-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5462,0.3,0.771
+2025-12-06,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4424,0.3,0.771
+2025-12-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4098,0.3,0.771
+2025-12-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5091,0.3,0.771
+2025-12-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.511,0.3,0.771
+2025-12-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5211,0.3,0.771
+2025-12-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4811,0.3,0.771
+2025-12-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4796,0.3,0.771
+2025-12-13,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4891,0.3,0.771
+2025-12-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4798,0.3,0.771
+2025-12-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5071,0.3,0.771
+2025-12-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.546,0.3,0.771
+2025-12-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.536,0.3,0.771
+2025-12-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5136,0.3,0.771
+2025-12-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.492,0.3,0.771
+2025-12-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4786,0.3,0.771
+2025-12-21,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4395,0.3,0.771
+2025-12-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5223,0.3,0.771
+2025-12-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5297,0.3,0.771
+2025-12-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4874,0.3,0.771
+2025-12-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5057,0.3,0.771
+2025-12-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4921,0.3,0.771
+2025-12-27,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4999,0.3,0.771
+2025-12-28,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5016,0.3,0.771
+2025-12-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4764,0.3,0.771
+2025-12-30,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5194,0.3,0.771
+2025-12-31,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5385,0.3,0.771
+2026-01-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5831,0.3,0.771
+2026-01-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5492,0.3,0.771
+2026-01-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5138,0.3,0.771
+2026-01-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4435,0.3,0.771
+2026-01-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4574,0.3,0.771
+2026-01-06,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4109,0.3,0.771
+2026-01-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.447,0.3,0.771
+2026-01-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5709,0.3,0.771
+2026-01-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5303,0.3,0.771
+2026-01-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5345,0.3,0.771
+2026-01-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.558,0.3,0.771
+2026-01-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4422,0.3,0.771
+2026-01-13,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4348,0.3,0.771
+2026-01-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.3428,0.3,0.771
+2026-01-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.3489,0.3,0.771
+2026-01-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5141,0.3,0.771
+2026-01-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5306,0.3,0.771
+2026-01-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5574,0.3,0.771
+2026-01-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6262,0.3,0.771
+2026-01-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.529,0.3,0.771
+2026-01-21,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5406,0.3,0.771
+2026-01-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.535,0.3,0.771
+2026-01-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6304,0.3,0.771
+2026-01-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6176,0.3,0.771
+2026-01-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5628,0.3,0.771
+2026-01-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.6157,0.3,0.771
+2026-01-27,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5906,0.3,0.771
+2026-01-28,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5815,0.3,0.771
+2026-01-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5706,0.3,0.771
+2026-01-30,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5802,0.3,0.771
+2026-01-31,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5336,0.3,0.771
+2026-02-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.525,0.3,0.771
+2026-02-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5313,0.3,0.771
+2026-02-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5345,0.3,0.771
+2026-02-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5084,0.3,0.771
+2026-02-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.5283,0.3,0.771
+2026-02-06,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4489,0.3,0.771
+2026-02-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4505,0.3,0.771
+2026-02-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4167,0.3,0.771
+2026-02-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.393,0.3,0.771
+2026-02-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.3929,0.3,0.771
+2026-02-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.385,0.3,0.771
+2026-02-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.3886,0.3,0.771
+2026-02-13,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4126,0.3,0.771
+2026-02-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4004,0.3,0.771
+2026-02-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.3842,0.3,0.771
+2026-02-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.4178,0.3,0.771
+2026-02-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.3461,0.3,0.771
+2026-02-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2742,0.3,0.771
+2026-02-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2743,0.3,0.771
+2026-02-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2733,0.3,0.771
+2026-02-21,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2229,0.3,0.771
+2026-02-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2346,0.3,0.771
+2026-02-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2643,0.3,0.771
+2026-02-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2716,0.3,0.771
+2026-02-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.258,0.3,0.771
+2026-02-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2418,0.3,0.771
+2026-02-27,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2249,0.3,0.771
+2026-02-28,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2206,0.3,0.771
+2026-03-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2416,0.3,0.771
+2026-03-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2404,0.3,0.771
+2026-03-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2263,0.3,0.771
+2026-03-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2215,0.3,0.771
+2026-03-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2169,0.3,0.771
+2026-03-06,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.215,0.3,0.771
+2026-03-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1975,0.3,0.771
+2026-03-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1874,0.3,0.771
+2026-03-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2022,0.3,0.771
+2026-03-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.2015,0.3,0.771
+2026-03-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.174,0.3,0.771
+2026-03-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.147,0.3,0.771
+2026-03-13,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1382,0.3,0.771
+2026-03-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1208,0.3,0.771
+2026-03-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1146,0.3,0.771
+2026-03-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1295,0.3,0.771
+2026-03-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1266,0.3,0.771
+2026-03-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1332,0.3,0.771
+2026-03-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1214,0.3,0.771
+2026-03-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1188,0.3,0.771
+2026-03-21,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1164,0.3,0.771
+2026-03-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1175,0.3,0.771
+2026-03-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1244,0.3,0.771
+2026-03-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1159,0.3,0.771
+2026-03-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1195,0.3,0.771
+2026-03-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.128,0.3,0.771
+2026-03-27,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.133,0.3,0.771
+2026-03-28,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1204,0.3,0.771
+2026-03-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1093,0.3,0.771
+2026-03-30,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1186,0.3,0.771
+2026-03-31,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1213,0.3,0.771
+2026-04-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1251,0.3,0.771
+2026-04-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1403,0.3,0.771
+2026-04-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1213,0.3,0.771
+2026-04-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1013,0.3,0.771
+2026-04-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0858,0.3,0.771
+2026-04-06,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0934,0.3,0.771
+2026-04-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.1032,0.3,0.771
+2026-04-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0896,0.3,0.771
+2026-04-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0868,0.3,0.771
+2026-04-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0786,0.3,0.771
+2026-04-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0671,0.3,0.771
+2026-04-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0697,0.3,0.771
+2026-04-13,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0808,0.3,0.771
+2026-04-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0705,0.3,0.771
+2026-04-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0747,0.3,0.771
+2026-04-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0817,0.3,0.771
+2026-04-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0758,0.3,0.771
+2026-04-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0548,0.3,0.771
+2026-04-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0596,0.3,0.771
+2026-04-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0652,0.3,0.771
+2026-04-21,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0693,0.3,0.771
+2026-04-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0794,0.3,0.771
+2026-04-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0723,0.3,0.771
+2026-04-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0635,0.3,0.771
+2026-04-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0551,0.3,0.771
+2026-04-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0487,0.3,0.771
+2026-04-27,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0765,0.3,0.771
+2026-04-28,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.064,0.3,0.771
+2026-04-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0502,0.3,0.771
+2026-04-30,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0411,0.3,0.771
+2026-05-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0413,0.3,0.771
+2026-05-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0374,0.3,0.771
+2026-05-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0469,0.3,0.771
+2026-05-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0464,0.3,0.771
+2026-05-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.036,0.3,0.771
+2026-05-06,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0331,0.3,0.771
+2026-05-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0329,0.3,0.771
+2026-05-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0299,0.3,0.771
+2026-05-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0321,0.3,0.771
+2026-05-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.031,0.3,0.771
+2026-05-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0317,0.3,0.771
+2026-05-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0333,0.3,0.771
+2026-05-13,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0347,0.3,0.771
+2026-05-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0353,0.3,0.771
+2026-05-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0319,0.3,0.771
+2026-05-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0391,0.3,0.771
+2026-05-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0369,0.3,0.771
+2026-05-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0379,0.3,0.771
+2026-05-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0345,0.3,0.771
+2026-05-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0323,0.3,0.771
+2026-05-21,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0254,0.3,0.771
+2026-05-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0224,0.3,0.771
+2026-05-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0193,0.3,0.771
+2026-05-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.024,0.3,0.771
+2026-05-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0265,0.3,0.771
+2026-05-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0157,0.3,0.771
+2026-05-27,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0219,0.3,0.771
+2026-05-28,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0235,0.3,0.771
+2026-05-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.024,0.3,0.771
+2026-05-30,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0224,0.3,0.771
+2026-05-31,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.019,0.3,0.771
+2026-06-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0236,0.3,0.771
+2026-06-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0246,0.3,0.771
+2026-06-03,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0221,0.3,0.771
+2026-06-04,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0195,0.3,0.771
+2026-06-05,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0208,0.3,0.771
+2026-06-07,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0159,0.3,0.771
+2026-06-08,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0182,0.3,0.771
+2026-06-09,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.019,0.3,0.771
+2026-06-10,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0163,0.3,0.771
+2026-06-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0181,0.3,0.771
+2026-06-12,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0194,0.3,0.771
+2026-06-14,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.016,0.3,0.771
+2026-06-15,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0152,0.3,0.771
+2026-06-16,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0159,0.3,0.771
+2026-06-17,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0146,0.3,0.771
+2026-06-18,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.017,0.3,0.771
+2026-06-19,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0151,0.3,0.771
+2026-06-20,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0183,0.3,0.771
+2026-06-22,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0137,0.3,0.771
+2026-06-23,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0122,0.3,0.771
+2026-06-24,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0135,0.3,0.771
+2026-06-25,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0149,0.3,0.771
+2026-06-26,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0145,0.3,0.771
+2026-06-29,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0159,0.3,0.771
+2026-07-01,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0152,0.3,0.771
+2026-07-02,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0127,0.3,0.771
+2026-09-11,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0655,0.3,0.771
+2026-10-31,Anthropic,Claude Sonnet 4.5,anthropic/claude-sonnet-4.5,3.0,15.0,6.0,0.0434,0.3,0.771
 2026-06-30,Anthropic,Claude Sonnet 5,anthropic/claude-sonnet-5,2.0,10.0,4.0,0.0164,0.2,0.514
 2026-07-01,Anthropic,Claude Sonnet 5,anthropic/claude-sonnet-5,2.0,10.0,4.0,0.1,0.2,0.514
 2026-07-02,Anthropic,Claude Sonnet 5,anthropic/claude-sonnet-5,2.0,10.0,4.0,0.1066,0.2,0.514
@@ -403,6 +683,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Anthropic,Claude Sonnet 5,anthropic/claude-sonnet-5,2.0,10.0,4.0,0.0451,0.2,0.514
 2026-10-29,Anthropic,Claude Sonnet 5,anthropic/claude-sonnet-5,2.0,10.0,4.0,0.0365,0.2,0.514
 2026-10-30,Anthropic,Claude Sonnet 5,anthropic/claude-sonnet-5,2.0,10.0,4.0,0.0386,0.2,0.514
+2026-10-31,Anthropic,Claude Sonnet 5,anthropic/claude-sonnet-5,2.0,10.0,4.0,0.0366,0.2,0.514
 2026-09-29,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1196,0.2,0.514
 2026-09-30,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1461,0.2,0.514
 2026-10-01,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1795,0.2,0.514
@@ -435,6 +716,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.2251,0.1,0.427
 2026-10-29,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.2301,0.1,0.427
 2026-10-30,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1838,0.1,0.427
+2026-10-31,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.172,0.1,0.427
 2026-08-13,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,1.74,3.48,2.175,0.0644,0.145,0.36975
 2026-08-14,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,1.74,3.48,2.175,0.0954,0.145,0.36975
 2026-08-15,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,1.74,3.48,2.175,0.1025,0.145,0.36975
@@ -514,6 +796,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,0.66,1.98,0.99,0.0185,0.022,0.11814
 2026-10-29,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,0.66,1.98,0.99,0.0151,0.022,0.11814
 2026-10-30,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,0.66,1.98,0.99,0.0133,0.022,0.11814
+2026-10-31,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,0.66,1.98,0.99,0.0145,0.022,0.11814
 2026-10-17,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.1395,0.003,0.02661
 2026-10-18,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.968,0.003,0.02661
 2026-10-19,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9674,0.003,0.02661
@@ -528,6 +811,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9815,0.003,0.02661
 2026-10-29,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9849,0.003,0.02661
 2026-10-30,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9867,0.003,0.02661
+2026-10-31,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9855,0.003,0.02661
 2025-12-17,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.0223,0.05,0.1335
 2025-12-18,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1078,0.05,0.1335
 2025-12-19,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1494,0.05,0.1335
@@ -846,6 +1130,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1601,0.05,0.1335
 2026-10-29,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1383,0.05,0.1335
 2026-10-30,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1126,0.05,0.1335
+2026-10-31,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.164,0.05,0.1335
 2026-05-09,Google,Gemini 3.1 Flash Lite,google/gemini-3.1-flash-lite,0.25,1.5,0.5625,0.0322,0.025,0.06675
 2026-05-10,Google,Gemini 3.1 Flash Lite,google/gemini-3.1-flash-lite,0.25,1.5,0.5625,0.0567,0.025,0.06675
 2026-05-11,Google,Gemini 3.1 Flash Lite,google/gemini-3.1-flash-lite,0.25,1.5,0.5625,0.0524,0.025,0.06675
@@ -1021,6 +1306,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Google,Gemini 3.1 Flash Lite,google/gemini-3.1-flash-lite,0.25,1.5,0.5625,0.1966,0.025,0.06675
 2026-10-29,Google,Gemini 3.1 Flash Lite,google/gemini-3.1-flash-lite,0.25,1.5,0.5625,0.1524,0.025,0.06675
 2026-10-30,Google,Gemini 3.1 Flash Lite,google/gemini-3.1-flash-lite,0.25,1.5,0.5625,0.1229,0.025,0.06675
+2026-10-31,Google,Gemini 3.1 Flash Lite,google/gemini-3.1-flash-lite,0.25,1.5,0.5625,0.1107,0.025,0.06675
 2026-08-14,Google,Gemini 3.7 Flash,google/gemini-3.7-flash,0.75,3.75,1.5,0.1122,0.075,0.19275
 2026-08-15,Google,Gemini 3.7 Flash,google/gemini-3.7-flash,0.75,3.75,1.5,0.2319,0.075,0.19275
 2026-08-16,Google,Gemini 3.7 Flash,google/gemini-3.7-flash,0.75,3.75,1.5,0.1526,0.075,0.19275
@@ -1091,6 +1377,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-26,Google,Gemini 3.7 Flash,google/gemini-3.7-flash,0.75,3.75,1.5,0.0892,0.075,0.19275
 2026-10-27,Google,Gemini 3.7 Flash,google/gemini-3.7-flash,0.75,3.75,1.5,0.0899,0.075,0.19275
 2026-10-30,Google,Gemini 3.7 Flash,google/gemini-3.7-flash,0.75,3.75,1.5,0.0917,0.075,0.19275
+2026-10-31,Google,Gemini 3.7 Flash,google/gemini-3.7-flash,0.75,3.75,1.5,0.1108,0.075,0.19275
 2026-09-02,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.0569,0.075,0.19275
 2026-09-03,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.2551,0.075,0.19275
 2026-09-04,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.3522,0.075,0.19275
@@ -1150,6 +1437,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.4106,0.075,0.19275
 2026-10-29,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.3734,0.075,0.19275
 2026-10-30,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.2885,0.075,0.19275
+2026-10-31,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.3442,0.075,0.19275
 2026-10-14,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.1759,0.1,0.427
 2026-10-15,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.1743,0.1,0.427
 2026-10-16,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.2213,0.1,0.427
@@ -1167,6 +1455,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.2327,0.1,0.427
 2026-10-29,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.3358,0.1,0.427
 2026-10-30,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.3842,0.1,0.427
+2026-10-31,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.2703,0.1,0.427
 2026-09-03,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,0.77,0.002,0.01574
 2026-09-04,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,1.0,0.002,0.01574
 2026-09-05,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,1.0,0.002,0.01574
@@ -1225,13 +1514,167 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,1.0,0.002,0.01574
 2026-10-29,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,1.0,0.002,0.01574
 2026-10-30,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,1.0,0.002,0.01574
+2026-10-31,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,1.0,0.002,0.01574
 2026-10-28,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
 2026-10-29,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
 2026-10-30,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
+2026-10-31,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
 2026-10-13,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,0.116,0.2,0.854
 2026-10-28,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
 2026-10-29,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
 2026-10-30,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
+2026-10-31,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
+2026-06-01,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.3338,0.06,0.1002
+2026-06-02,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.7007,0.06,0.1002
+2026-06-03,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8724,0.06,0.1002
+2026-06-04,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8559,0.06,0.1002
+2026-06-05,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8532,0.06,0.1002
+2026-06-06,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8567,0.06,0.1002
+2026-06-07,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.876,0.06,0.1002
+2026-06-09,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8936,0.06,0.1002
+2026-06-10,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9241,0.06,0.1002
+2026-06-11,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9303,0.06,0.1002
+2026-06-12,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9563,0.06,0.1002
+2026-06-13,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9652,0.06,0.1002
+2026-06-14,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9671,0.06,0.1002
+2026-06-15,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9538,0.06,0.1002
+2026-06-16,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9402,0.06,0.1002
+2026-06-17,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9547,0.06,0.1002
+2026-06-18,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9279,0.06,0.1002
+2026-06-19,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9096,0.06,0.1002
+2026-06-20,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.944,0.06,0.1002
+2026-06-21,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9337,0.06,0.1002
+2026-06-22,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9504,0.06,0.1002
+2026-06-23,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9559,0.06,0.1002
+2026-06-24,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9625,0.06,0.1002
+2026-06-25,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9581,0.06,0.1002
+2026-06-26,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9556,0.06,0.1002
+2026-06-27,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9633,0.06,0.1002
+2026-06-28,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9654,0.06,0.1002
+2026-06-29,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9665,0.06,0.1002
+2026-06-30,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9655,0.06,0.1002
+2026-07-01,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.965,0.06,0.1002
+2026-07-02,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9687,0.06,0.1002
+2026-07-03,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9739,0.06,0.1002
+2026-07-04,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9768,0.06,0.1002
+2026-07-05,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9755,0.06,0.1002
+2026-07-06,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9742,0.06,0.1002
+2026-07-07,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9702,0.06,0.1002
+2026-07-08,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9727,0.06,0.1002
+2026-07-09,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9696,0.06,0.1002
+2026-07-10,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9702,0.06,0.1002
+2026-07-11,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.971,0.06,0.1002
+2026-07-12,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9719,0.06,0.1002
+2026-07-13,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9706,0.06,0.1002
+2026-07-14,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-15,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-16,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9717,0.06,0.1002
+2026-07-17,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-18,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9694,0.06,0.1002
+2026-07-19,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9632,0.06,0.1002
+2026-07-20,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9359,0.06,0.1002
+2026-07-21,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-22,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-23,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-24,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-25,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-26,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9292,0.06,0.1002
+2026-07-27,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-28,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-07-29,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9303,0.06,0.1002
+2026-07-30,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9293,0.06,0.1002
+2026-07-31,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9133,0.06,0.1002
+2026-08-01,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9064,0.06,0.1002
+2026-08-02,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8967,0.06,0.1002
+2026-08-03,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9029,0.06,0.1002
+2026-08-04,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9075,0.06,0.1002
+2026-08-05,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9128,0.06,0.1002
+2026-08-06,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9043,0.06,0.1002
+2026-08-07,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9016,0.06,0.1002
+2026-08-08,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9019,0.06,0.1002
+2026-08-09,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8917,0.06,0.1002
+2026-08-10,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8954,0.06,0.1002
+2026-08-11,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8872,0.06,0.1002
+2026-08-12,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8947,0.06,0.1002
+2026-08-13,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8861,0.06,0.1002
+2026-08-14,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8879,0.06,0.1002
+2026-08-15,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8829,0.06,0.1002
+2026-08-16,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8782,0.06,0.1002
+2026-08-17,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8902,0.06,0.1002
+2026-08-18,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.9141,0.06,0.1002
+2026-08-19,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.911,0.06,0.1002
+2026-08-20,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8821,0.06,0.1002
+2026-08-21,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8593,0.06,0.1002
+2026-08-22,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8538,0.06,0.1002
+2026-08-23,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8513,0.06,0.1002
+2026-08-24,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8691,0.06,0.1002
+2026-08-25,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-08-26,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-08-27,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-08-28,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-08-29,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-08-30,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-08-31,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-01,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-02,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-03,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-04,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-05,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-06,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-07,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-08,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-09,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-10,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-11,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-12,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-13,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-14,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-15,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-16,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-17,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-18,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-19,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-20,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-21,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-22,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-23,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-24,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-25,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-26,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-27,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-28,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-29,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-09-30,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-01,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-02,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-03,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-04,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-05,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-06,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-07,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-08,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-09,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-10,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-11,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-12,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-13,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-14,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-15,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-16,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-17,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-18,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-19,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-20,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-21,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-22,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,1.0,0.06,0.1002
+2026-10-23,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.6098,0.06,0.1002
+2026-10-24,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.4446,0.06,0.1002
+2026-10-25,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.3822,0.06,0.1002
+2026-10-26,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.2441,0.06,0.1002
+2026-10-27,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.0731,0.06,0.1002
+2026-10-28,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.0633,0.06,0.1002
+2026-10-29,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.0555,0.06,0.1002
+2026-10-31,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.0818,0.06,0.1002
 2026-10-23,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.3902,0.015,0.03705
 2026-10-24,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.5554,0.015,0.03705
 2026-10-25,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.6178,0.015,0.03705
@@ -1240,6 +1683,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.9367,0.015,0.03705
 2026-10-29,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.9445,0.015,0.03705
 2026-10-30,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,1.0,0.015,0.03705
+2026-10-31,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.9182,0.015,0.03705
 2026-10-12,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.68,2.09,1.0325,1.0,0.07,0.1634
 2026-10-13,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.68,2.09,1.0325,1.0,0.07,0.1634
 2026-10-14,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.68,2.09,1.0325,1.0,0.07,0.1634
@@ -1259,6 +1703,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,1.36,4.18,2.065,,0.14,0.3268
 2026-10-29,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.7,2.1,1.05,,0.07,0.1659
 2026-10-30,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.7,2.1,1.05,,0.07,0.1659
+2026-10-31,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.7,2.1,1.05,,0.07,0.1659
 2026-07-17,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.3696,0.3,0.771
 2026-07-18,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.6883,0.3,0.771
 2026-07-19,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.7446,0.3,0.771
@@ -1365,6 +1810,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.593,0.3,0.771
 2026-10-29,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.4538,0.3,0.771
 2026-10-30,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.303,0.3,0.771
+2026-10-31,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.4472,0.3,0.771
 2026-10-23,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.1939,0.2,0.514
 2026-10-24,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.6078,0.2,0.514
 2026-10-25,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.5602,0.2,0.514
@@ -1373,6 +1819,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.407,0.2,0.514
 2026-10-29,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.5462,0.2,0.514
 2026-10-30,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.697,0.2,0.514
+2026-10-31,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.5528,0.2,0.514
 2026-06-29,NVIDIA,Nemotron 3 Ultra,nvidia/nemotron-3-ultra-550b-a55b,0.6,2.4,1.05,1.0,0.12,0.2004
 2026-06-30,NVIDIA,Nemotron 3 Ultra,nvidia/nemotron-3-ultra-550b-a55b,0.6,2.4,1.05,1.0,0.12,0.2004
 2026-07-01,NVIDIA,Nemotron 3 Ultra,nvidia/nemotron-3-ultra-550b-a55b,0.6,2.4,1.05,1.0,0.12,0.2004
@@ -1497,9 +1944,11 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,NVIDIA,Nemotron 3 Ultra,nvidia/nemotron-3-ultra-550b-a55b,0.6,2.4,1.05,,0.12,0.2004
 2026-10-29,NVIDIA,Nemotron 3 Ultra,nvidia/nemotron-3-ultra-550b-a55b,0.6,2.4,1.05,,0.12,0.2004
 2026-10-30,NVIDIA,Nemotron 3 Ultra,nvidia/nemotron-3-ultra-550b-a55b,0.6,2.4,1.05,,0.12,0.2004
+2026-10-31,NVIDIA,Nemotron 3 Ultra,nvidia/nemotron-3-ultra-550b-a55b,0.6,2.4,1.05,,0.12,0.2004
 2026-10-28,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,,0.02,0.0404
 2026-10-29,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,,0.02,0.0404
 2026-10-30,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,,0.02,0.0404
+2026-10-31,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,,0.02,0.0404
 2026-07-11,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,1.0,6.0,2.25,0.0973,0.1,0.267
 2026-07-12,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,1.0,6.0,2.25,0.0988,0.1,0.267
 2026-07-13,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,1.0,6.0,2.25,0.1018,0.1,0.267
@@ -1612,6 +2061,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,0.2,1.2,0.45,0.125,0.02,0.0534
 2026-10-29,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,0.2,1.2,0.45,0.1022,0.02,0.0534
 2026-10-30,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,0.2,1.2,0.45,0.3581,0.02,0.0534
+2026-10-31,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,0.2,1.2,0.45,0.4445,0.02,0.0534
 2026-09-05,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0301,1.0,2.57
 2026-09-06,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0253,1.0,2.57
 2026-09-07,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0281,1.0,2.57
@@ -1663,6 +2113,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0297,1.0,2.57
 2026-10-29,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0184,1.0,2.57
 2026-10-30,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0242,1.0,2.57
+2026-10-31,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0211,1.0,2.57
 2026-09-22,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.0361,0.01,0.0257
 2026-09-23,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.1657,0.01,0.0257
 2026-09-24,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.227,0.01,0.0257
@@ -1702,6 +2153,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.5679,0.01,0.0257
 2026-10-29,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.5853,0.01,0.0257
 2026-10-30,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.3711,0.01,0.0257
+2026-10-31,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.3267,0.01,0.0257
 2026-09-23,OpenAI,GPT-6 Luna Pro,openai/gpt-6-luna-pro,0.1,0.5,0.2,0.0221,0.01,0.0257
 2026-09-24,OpenAI,GPT-6 Luna Pro,openai/gpt-6-luna-pro,0.1,0.5,0.2,0.023,0.01,0.0257
 2026-09-28,OpenAI,GPT-6 Luna Pro,openai/gpt-6-luna-pro,0.1,0.5,0.2,0.018,0.01,0.0257
@@ -1729,6 +2181,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,OpenAI,GPT-6 Luna Pro,openai/gpt-6-luna-pro,0.1,0.5,0.2,0.0363,0.01,0.0257
 2026-10-29,OpenAI,GPT-6 Luna Pro,openai/gpt-6-luna-pro,0.1,0.5,0.2,0.022,0.01,0.0257
 2026-10-30,OpenAI,GPT-6 Luna Pro,openai/gpt-6-luna-pro,0.1,0.5,0.2,0.0314,0.01,0.0257
+2026-10-31,OpenAI,GPT-6 Luna Pro,openai/gpt-6-luna-pro,0.1,0.5,0.2,0.0285,0.01,0.0257
 2026-09-30,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.0412,0.1,0.427
 2026-10-01,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.0587,0.1,0.427
 2026-10-02,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.0715,0.1,0.427
@@ -1760,13 +2213,16 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.2079,0.1,0.427
 2026-10-29,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.2404,0.1,0.427
 2026-10-30,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.1665,0.1,0.427
+2026-10-31,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.1498,0.1,0.427
 2026-10-27,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0401,0.05,0.2135
 2026-10-28,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.033,0.05,0.2135
 2026-10-29,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0316,0.05,0.2135
 2026-10-30,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0487,0.05,0.2135
+2026-10-31,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0294,0.05,0.2135
 2026-10-28,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
 2026-10-29,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
 2026-10-30,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
+2026-10-31,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
 2026-05-30,StepFun,Step 3.7 Flash,stepfun/step-3.7-flash,0.2,1.15,0.4375,1.0,0.04,0.0703
 2026-05-31,StepFun,Step 3.7 Flash,stepfun/step-3.7-flash,0.2,1.15,0.4375,1.0,0.04,0.0703
 2026-06-01,StepFun,Step 3.7 Flash,stepfun/step-3.7-flash,0.2,1.15,0.4375,1.0,0.04,0.0703
@@ -1904,6 +2360,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,StepFun,Step 3.7 Flash,stepfun/step-3.7-flash,0.2,1.15,0.4375,0.0726,0.04,0.0703
 2026-10-29,StepFun,Step 3.7 Flash,stepfun/step-3.7-flash,0.2,1.15,0.4375,0.0587,0.04,0.0703
 2026-10-30,StepFun,Step 3.7 Flash,stepfun/step-3.7-flash,0.2,1.15,0.4375,0.0694,0.04,0.0703
+2026-10-31,StepFun,Step 3.7 Flash,stepfun/step-3.7-flash,0.2,1.15,0.4375,0.0852,0.04,0.0703
 2026-10-08,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.05,0.1905
 2026-10-09,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.05,0.1905
 2026-10-10,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.05,0.1905
@@ -1927,9 +2384,11 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,0.9274,0.1,0.234
 2026-10-29,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,0.9413,0.1,0.234
 2026-10-30,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,0.9306,0.1,0.234
+2026-10-31,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,0.9148,0.1,0.234
 2026-10-28,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
 2026-10-29,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
 2026-10-30,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
+2026-10-31,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
 2026-09-22,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.1441,0.0028,0.022036
 2026-09-23,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.5251,0.0028,0.022036
 2026-09-24,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.7253,0.0028,0.022036
@@ -1969,6 +2428,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.7031,0.0028,0.022036
 2026-10-29,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.7059,0.0028,0.022036
 2026-10-30,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.6743,0.0028,0.022036
+2026-10-31,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.7329,0.0028,0.022036
 2026-09-22,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1794,0.0036,0.064032
 2026-09-23,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1549,0.0036,0.064032
 2026-09-24,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1163,0.0036,0.064032
@@ -2008,6 +2468,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.2969,0.0036,0.064032
 2026-10-29,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.2941,0.0036,0.064032
 2026-10-30,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.3257,0.0036,0.064032
+2026-10-31,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.2671,0.0036,0.064032
 2026-06-16,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.1076,0.26,0.4382
 2026-06-17,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.4044,0.26,0.4382
 2026-06-18,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.5309,0.26,0.4382
@@ -2145,6 +2606,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.0512,0.26,0.4382
 2026-10-29,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.0442,0.26,0.4382
 2026-10-30,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.0392,0.26,0.4382
+2026-10-31,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.0418,0.26,0.4382
 2026-08-19,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.1057,0.26,0.4382
 2026-08-20,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.1647,0.26,0.4382
 2026-08-21,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.2086,0.26,0.4382
@@ -2218,6 +2680,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.198,0.26,0.4382
 2026-10-29,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.1992,0.26,0.4382
 2026-10-30,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.1623,0.26,0.4382
+2026-10-31,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.1727,0.26,0.4382
 2026-08-26,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.2908,0.03,0.0491
 2026-08-27,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.6804,0.03,0.0491
 2026-08-28,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.7371,0.03,0.0491
@@ -2284,6 +2747,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.7508,0.03,0.0491
 2026-10-29,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.7565,0.03,0.0491
 2026-10-30,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.7985,0.03,0.0491
+2026-10-31,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.7855,0.03,0.0491
 2026-09-22,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
 2026-09-23,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
 2026-09-24,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
@@ -2323,3 +2787,4 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-10-28,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,,0.5,0.735
 2026-10-29,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,,0.5,0.735
 2026-10-30,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,,0.5,0.735
+2026-10-31,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,,0.5,0.735
