@@ -1,2 +1,2 @@
-GPU prices: 2026-11-01T14:17:09Z
-Token prices: 2026-11-01T13:28:13Z
+GPU prices: 2026-11-02T17:05:05Z
+Token prices: 2026-11-02T16:00:02Z
