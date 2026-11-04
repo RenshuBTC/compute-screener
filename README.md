@@ -24,7 +24,7 @@ How every price is collected, filtered and combined: [methodology](https://compu
 
 ## Verify every value
 
-[![verify](https://github.com/renshuBTC/compute-screener/actions/workflows/verify.yml/badge.svg)](https://github.com/renshuBTC/compute-screener/actions/workflows/verify.yml)
+[![verify](https://github.com/RenshuTanz/compute-screener/actions/workflows/verify.yml/badge.svg)](https://github.com/RenshuTanz/compute-screener/actions/workflows/verify.yml)
 
 Every final day has a manifest: each file the day was computed from with its SHA-256, and the final values. The
 calculation code and a verifier are in [verify/](verify). It recomputes any published value from the public files:
@@ -42,8 +42,8 @@ No account or key.
 | | How |
 | --- | --- |
 | MCP (Claude, ChatGPT and other AI apps) | Add the connector `https://computescreener.com/mcp`. Setup: [computescreener.com/connect](https://computescreener.com/connect) |
-| Claude Code | `/plugin install compute-screener --marketplace renshuBTC/compute-screener` (or `/plugin marketplace add renshuBTC/compute-screener`, then `/plugin install compute-screener@compute-screener`) |
-| Gemini CLI | `gemini extensions install https://github.com/renshuBTC/compute-screener` |
+| Claude Code | `/plugin install compute-screener --marketplace RenshuTanz/compute-screener` (or `/plugin marketplace add RenshuTanz/compute-screener`, then `/plugin install compute-screener@compute-screener`) |
+| Gemini CLI | `gemini extensions install https://github.com/RenshuTanz/compute-screener` |
 | API (JSON) | Docs: [computescreener.com/api](https://computescreener.com/api) · [index.json](https://computescreener.com/data/index.json) (latest GPU prices) · [series.json](https://computescreener.com/data/series.json) (GPU history) · [tokens.json](https://computescreener.com/data/tokens.json) · [token_series.json](https://computescreener.com/data/token_series.json) · [models.json](https://computescreener.com/data/models.json) (model prices and history) · [token_market.json](https://computescreener.com/data/token_market.json) (every AI model's price) · [gpu_market.json](https://computescreener.com/data/gpu_market.json) (every other GPU's posted prices) |
 | CSV (this repo) | [data/](data): every GPU's and company's daily index, provider averages, and each model's daily input and output prices, updated every day |
 
@@ -71,4 +71,4 @@ Prices are information about posted prices.
 
 ## Contact
 
-[computescreener.com/support](https://computescreener.com/support) · [@RenshuTan](https://x.com/RenshuTan) on X
+[computescreener.com/support](https://computescreener.com/support) · [@RenshuTanz](https://x.com/RenshuTanz) on X
