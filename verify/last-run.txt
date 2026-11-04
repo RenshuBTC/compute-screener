@@ -105,6 +105,19 @@ ok    2026-11-02 L40  published 0.9588, recomputed 0.9588  (5 providers, 5 price
 ok    2026-11-02 RTX 4090  published 0.5323, recomputed 0.5323  (6 providers, 6 priced that day; 0.5326 x 0.999323 from 2026-11-01)
 ok    2026-11-02  every input file matches its SHA-256; the day's state reproduces
 ok    2026-11-02  485631 price readings at 669 collections rebuild every offer's counts and sums in the day's records
+ok    2026-11-03 H100  published 3.706, recomputed 3.706  (18 providers, 18 priced that day; 3.7213 x 0.995905 from 2026-11-02)
+ok    2026-11-03 H200  published 5.1005, recomputed 5.1005  (13 providers, 12 priced that day; 5.0486 x 1.010280 from 2026-11-02)
+ok    2026-11-03 A100  published 1.7522, recomputed 1.7522  (13 providers, 13 priced that day; 1.7511 x 1.000597 from 2026-11-02)
+ok    2026-11-03 B200  published 7.856, recomputed 7.856  (10 providers, 10 priced that day; 7.9194 x 0.991994 from 2026-11-02)
+ok    2026-11-03 B300  published 8.9053, recomputed 8.9053  (11 providers, 8 priced that day; 9.0572 x 0.983234 from 2026-11-02)
+ok    2026-11-03 RTX PRO 6000  published 2.0251, recomputed 2.0251  (9 providers, 9 priced that day; 2.0249 x 1.000103 from 2026-11-02)
+ok    2026-11-03 L40S  published 1.4021, recomputed 1.4021  (10 providers, 10 priced that day; 1.4042 x 0.998551 from 2026-11-02)
+ok    2026-11-03 RTX A6000  published 0.5772, recomputed 0.5772  (7 providers, 7 priced that day; 0.5783 x 0.998030 from 2026-11-02)
+ok    2026-11-03 RTX 6000 Ada  published 0.9065, recomputed 0.9065  (5 providers, 5 priced that day; 0.9074 x 0.998961 from 2026-11-02)
+ok    2026-11-03 L40  published 0.9588, recomputed 0.9588  (5 providers, 5 priced that day; 0.9588 x 1.000011 from 2026-11-02)
+ok    2026-11-03 RTX 4090  published 0.5332, recomputed 0.5332  (6 providers, 6 priced that day; 0.5323 x 1.001847 from 2026-11-02)
+ok    2026-11-03  every input file matches its SHA-256; the day's state reproduces
+ok    2026-11-03  499118 price readings at 746 collections rebuild every offer's counts and sums in the day's records
 ok    2026-10-22 Alibaba  published 0.5635, recomputed 0.5635  (2 models)
 ok    2026-10-22 Anthropic  published 5.15, recomputed 5.15  (5 models)
 ok    2026-10-22 DeepSeek  published 0.2859, recomputed 0.2859  (2 models)
@@ -224,8 +237,22 @@ ok    2026-11-01 StepFun  published 0.2183, recomputed 0.2183  (2 models)
 ok    2026-11-01 Xiaomi  published 0.0342, recomputed 0.0342  (2 models)
 ok    2026-11-01 Z.ai  published 0.1475, recomputed 0.1475  (3 models)
 ok    2026-11-01 xAI  published 0.735, recomputed 0.735  (1 models)
+ok    2026-11-02 Alibaba  published 0.078, recomputed 0.078  (3 models)
+ok    2026-11-02 Anthropic  published 0.5888, recomputed 0.5888  (4 models)
+ok    2026-11-02 DeepSeek  published 0.0278, recomputed 0.0278  (2 models)
+ok    2026-11-02 Google  published 0.2264, recomputed 0.2264  (5 models)
+ok    2026-11-02 Meta  published 0.0157, recomputed 0.0157  (1 models)
+ok    2026-11-02 MiniMax  published 0.0433, recomputed 0.0433  (2 models)
+ok    2026-11-02 Mistral  published 0.1659, recomputed 0.1659  (1 models)
+ok    2026-11-02 Moonshot AI  published 0.5824, recomputed 0.5824  (2 models)
+ok    2026-11-02 NVIDIA  published 0.2004, recomputed 0.2004  (1 models)
+ok    2026-11-02 OpenAI  published 0.1505, recomputed 0.1505  (6 models)
+ok    2026-11-02 StepFun  published 0.2211, recomputed 0.2211  (2 models)
+ok    2026-11-02 Xiaomi  published 0.0342, recomputed 0.0342  (2 models)
+ok    2026-11-02 Z.ai  published 0.129, recomputed 0.129  (3 models)
+ok    2026-11-02 xAI  published 0.735, recomputed 0.735  (1 models)
 note  this copy of catalog.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of method.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of recompute.py differs from the one that wrote the gpu manifests from 2026-10-23
 
-226 checked, 0 mismatches: every value reproduces
+253 checked, 0 mismatches: every value reproduces
