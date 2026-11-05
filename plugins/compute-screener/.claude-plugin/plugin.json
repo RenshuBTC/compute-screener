@@ -8,6 +8,6 @@
     "url": "https://computescreener.com"
   },
   "homepage": "https://computescreener.com/connect",
-  "repository": "https://github.com/renshuBTC/compute-screener",
+  "repository": "https://github.com/RenshuBTC/compute-screener",
   "keywords": ["gpu", "gpu-pricing", "h100", "b200", "ai-api-pricing", "tokens", "mcp"]
 }

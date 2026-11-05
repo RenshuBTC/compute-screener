@@ -28,7 +28,7 @@ transport Streamable HTTP), or add this to `cline_mcp_settings.json`:
 ## Other apps
 
 - Claude Code: `claude mcp add --transport http compute-screener https://computescreener.com/mcp`
-- Gemini CLI: `gemini extensions install https://github.com/renshuBTC/compute-screener`
+- Gemini CLI: `gemini extensions install https://github.com/RenshuBTC/compute-screener`
 - Claude, ChatGPT and other apps: add `https://computescreener.com/mcp` as a custom connector
   ([setup for each app](https://computescreener.com/connect)).
 
