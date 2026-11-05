@@ -118,6 +118,19 @@ ok    2026-11-03 L40  published 0.9588, recomputed 0.9588  (5 providers, 5 price
 ok    2026-11-03 RTX 4090  published 0.5332, recomputed 0.5332  (6 providers, 6 priced that day; 0.5323 x 1.001847 from 2026-11-02)
 ok    2026-11-03  every input file matches its SHA-256; the day's state reproduces
 ok    2026-11-03  499118 price readings at 746 collections rebuild every offer's counts and sums in the day's records
+ok    2026-11-04 H100  published 3.7102, recomputed 3.7102  (18 providers, 17 priced that day; 3.706 x 1.001130 from 2026-11-03)
+ok    2026-11-04 H200  published 5.0984, recomputed 5.0984  (13 providers, 12 priced that day; 5.1005 x 0.999581 from 2026-11-03)
+ok    2026-11-04 A100  published 1.737, recomputed 1.737  (13 providers, 13 priced that day; 1.7522 x 0.991349 from 2026-11-03)
+ok    2026-11-04 B200  published 7.8935, recomputed 7.8935  (10 providers, 10 priced that day; 7.856 x 1.004771 from 2026-11-03)
+ok    2026-11-04 B300  published 9.0851, recomputed 9.0851  (11 providers, 9 priced that day; 8.9053 x 1.020190 from 2026-11-03)
+ok    2026-11-04 RTX PRO 6000  published 2.0703, recomputed 2.0703  (9 providers, 9 priced that day; 2.0251 x 1.022353 from 2026-11-03)
+ok    2026-11-04 L40S  published 1.4028, recomputed 1.4028  (10 providers, 10 priced that day; 1.4021 x 1.000480 from 2026-11-03)
+ok    2026-11-04 RTX A6000  published 0.5767, recomputed 0.5767  (7 providers, 7 priced that day; 0.5772 x 0.999152 from 2026-11-03)
+ok    2026-11-04 RTX 6000 Ada  published 0.9143, recomputed 0.9143  (5 providers, 5 priced that day; 0.9065 x 1.008652 from 2026-11-03)
+ok    2026-11-04 L40  published 0.9589, recomputed 0.9589  (5 providers, 5 priced that day; 0.9588 x 1.000025 from 2026-11-03)
+ok    2026-11-04 RTX 4090  published 0.539, recomputed 0.539  (6 providers, 6 priced that day; 0.5332 x 1.010840 from 2026-11-03)
+ok    2026-11-04  every input file matches its SHA-256; the day's state reproduces
+ok    2026-11-04  526502 price readings at 886 collections rebuild every offer's counts and sums in the day's records
 ok    2026-10-22 Alibaba  published 0.5635, recomputed 0.5635  (2 models)
 ok    2026-10-22 Anthropic  published 5.15, recomputed 5.15  (5 models)
 ok    2026-10-22 DeepSeek  published 0.2859, recomputed 0.2859  (2 models)
@@ -251,8 +264,23 @@ ok    2026-11-02 StepFun  published 0.2211, recomputed 0.2211  (2 models)
 ok    2026-11-02 Xiaomi  published 0.0342, recomputed 0.0342  (2 models)
 ok    2026-11-02 Z.ai  published 0.129, recomputed 0.129  (3 models)
 ok    2026-11-02 xAI  published 0.735, recomputed 0.735  (1 models)
+ok    2026-11-03 Alibaba  published 0.0636, recomputed 0.0636  (3 models)
+ok    2026-11-03 Anthropic  published 0.6132, recomputed 0.6132  (5 models)
+ok    2026-11-03 DeepSeek  published 0.0276, recomputed 0.0276  (2 models)
+ok    2026-11-03 Google  published 0.2358, recomputed 0.2358  (5 models)
+ok    2026-11-03 Meta  published 0.0157, recomputed 0.0157  (1 models)
+ok    2026-11-03 MiniMax  published 0.0432, recomputed 0.0432  (2 models)
+ok    2026-11-03 Mistral  published 0.1659, recomputed 0.1659  (1 models)
+ok    2026-11-03 Moonshot AI  published 0.6277, recomputed 0.6277  (2 models)
+ok    2026-11-03 NVIDIA  published 0.0404, recomputed 0.0404  (1 models)
+ok    2026-11-03 OpenAI  published 0.1611, recomputed 0.1611  (6 models)
+ok    2026-11-03 StepFun  published 0.224, recomputed 0.224  (2 models)
+ok    2026-11-03 Xiaomi  published 0.0353, recomputed 0.0353  (2 models)
+ok    2026-11-03 Z.ai  published 0.1208, recomputed 0.1208  (3 models)
+ok    2026-11-03 xAI  published 0.735, recomputed 0.735  (1 models)
+note  started since this copy's catalog (data/families.json): RTX 5090 from 2026-11-06
 note  this copy of catalog.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of method.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of recompute.py differs from the one that wrote the gpu manifests from 2026-10-23
 
-253 checked, 0 mismatches: every value reproduces
+280 checked, 0 mismatches: every value reproduces
