@@ -305,9 +305,23 @@ ok    2026-11-04 StepFun  published 0.234, recomputed 0.234  (1 models)
 ok    2026-11-04 Xiaomi  published 0.0362, recomputed 0.0362  (2 models)
 ok    2026-11-04 Z.ai  published 0.1517, recomputed 0.1517  (3 models)
 ok    2026-11-04 xAI  published 0.735, recomputed 0.735  (1 models)
+ok    2026-11-05 Alibaba  published 0.0707, recomputed 0.0707  (3 models)
+ok    2026-11-05 Anthropic  published 0.5681, recomputed 0.5681  (4 models)
+ok    2026-11-05 DeepSeek  published 0.0282, recomputed 0.0282  (2 models)
+ok    2026-11-05 Google  published 0.244, recomputed 0.244  (4 models)
+ok    2026-11-05 Meta  published 0.0157, recomputed 0.0157  (1 models)
+ok    2026-11-05 MiniMax  published 0.0455, recomputed 0.0455  (2 models)
+ok    2026-11-05 Mistral  published 0.1825, recomputed 0.1825  (1 models)
+ok    2026-11-05 Moonshot AI  published 0.5889, recomputed 0.5889  (2 models)
+ok    2026-11-05 NVIDIA  published 0.0404, recomputed 0.0404  (1 models)
+ok    2026-11-05 OpenAI  published 0.257, recomputed 0.257  (7 models)
+ok    2026-11-05 StepFun  published 0.234, recomputed 0.234  (1 models)
+ok    2026-11-05 Xiaomi  published 0.0391, recomputed 0.0391  (2 models)
+ok    2026-11-05 Z.ai  published 0.1733, recomputed 0.1733  (3 models)
+ok    2026-11-05 xAI  published 0.735, recomputed 0.735  (1 models)
 note  started since this copy's catalog (data/families.json): RTX 5090 from 2026-11-06
 note  this copy of catalog.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of method.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of recompute.py differs from the one that wrote the gpu manifests from 2026-10-23
 
-307 checked, 0 mismatches: every value reproduces
+321 checked, 0 mismatches: every value reproduces
