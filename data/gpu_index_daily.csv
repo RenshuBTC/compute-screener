@@ -372,7 +372,8 @@ date,gpu,usd_per_gpu_hour,final,weekly_history,restated
 2026-11-09,H100,3.7205,true,false,false
 2026-11-10,H100,3.7454,true,false,false
 2026-11-11,H100,3.7148,true,false,false
-2026-11-12,H100,3.7213,false,false,false
+2026-11-12,H100,3.7316,true,false,false
+2026-11-13,H100,3.7464,false,false,false
 2025-10-23,H200,3.5815,true,true,true
 2025-10-30,H200,3.5815,true,true,true
 2025-11-06,H200,3.5815,true,true,true
@@ -445,7 +446,8 @@ date,gpu,usd_per_gpu_hour,final,weekly_history,restated
 2026-11-09,H200,5.0872,true,false,false
 2026-11-10,H200,5.1209,true,false,false
 2026-11-11,H200,5.1102,true,false,false
-2026-11-12,H200,5.1415,false,false,false
+2026-11-12,H200,5.1296,true,false,false
+2026-11-13,H200,5.1489,false,false,false
 2025-10-23,A100,1.6528,true,true,true
 2025-10-30,A100,1.6528,true,true,true
 2025-11-06,A100,1.6528,true,true,true
@@ -819,7 +821,8 @@ date,gpu,usd_per_gpu_hour,final,weekly_history,restated
 2026-11-09,A100,1.6865,true,false,false
 2026-11-10,A100,1.6892,true,false,false
 2026-11-11,A100,1.6942,true,false,false
-2026-11-12,A100,1.6893,false,false,false
+2026-11-12,A100,1.6882,true,false,false
+2026-11-13,A100,1.7002,false,false,false
 2025-10-23,B200,5.4454,true,true,true
 2025-10-30,B200,5.5866,true,true,true
 2025-11-06,B200,5.5866,true,true,true
@@ -892,7 +895,8 @@ date,gpu,usd_per_gpu_hour,final,weekly_history,restated
 2026-11-09,B200,8.2519,true,false,false
 2026-11-10,B200,8.1584,true,false,false
 2026-11-11,B200,8.1217,true,false,false
-2026-11-12,B200,8.0087,false,false,false
+2026-11-12,B200,8.0264,true,false,false
+2026-11-13,B200,8.0833,false,false,false
 2026-04-02,B300,6.8821,true,true,true
 2026-04-09,B300,6.8821,true,true,true
 2026-04-16,B300,7.123,true,true,true
@@ -942,7 +946,8 @@ date,gpu,usd_per_gpu_hour,final,weekly_history,restated
 2026-11-09,B300,9.3417,true,false,false
 2026-11-10,B300,9.3169,true,false,false
 2026-11-11,B300,9.2061,true,false,false
-2026-11-12,B300,9.1548,false,false,false
+2026-11-12,B300,9.4439,true,false,false
+2026-11-13,B300,9.3636,false,false,false
 2025-10-23,RTX PRO 6000,1.5421,true,true,true
 2025-10-30,RTX PRO 6000,1.5378,true,true,true
 2025-11-06,RTX PRO 6000,1.5378,true,true,true
@@ -1015,4 +1020,5 @@ date,gpu,usd_per_gpu_hour,final,weekly_history,restated
 2026-11-09,RTX PRO 6000,2.0891,true,false,false
 2026-11-10,RTX PRO 6000,2.0776,true,false,false
 2026-11-11,RTX PRO 6000,2.0424,true,false,false
-2026-11-12,RTX PRO 6000,2.0714,false,false,false
+2026-11-12,RTX PRO 6000,2.0744,true,false,false
+2026-11-13,RTX PRO 6000,2.0973,false,false,false
