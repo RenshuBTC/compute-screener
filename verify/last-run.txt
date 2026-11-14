@@ -241,6 +241,20 @@ ok    2026-11-12 RTX 5090  published 0.7007, recomputed 0.7007  (5 providers, 5 
 ok    2026-11-12 RTX 4090  published 0.5269, recomputed 0.5269  (6 providers, 5 priced that day; 0.5252 x 1.003238 from 2026-11-11)
 ok    2026-11-12  every input file matches its SHA-256; the day's state reproduces
 ok    2026-11-12  506162 price readings at 811 collections rebuild every offer's counts and sums in the day's records
+ok    2026-11-13 H100  published 3.758, recomputed 3.758  (18 providers, 17 priced that day; 3.7316 x 1.007083 from 2026-11-12)
+ok    2026-11-13 H200  published 5.1452, recomputed 5.1452  (12 providers, 11 priced that day; 5.1296 x 1.003039 from 2026-11-12)
+ok    2026-11-13 A100  published 1.7005, recomputed 1.7005  (13 providers, 12 priced that day; 1.6882 x 1.007239 from 2026-11-12)
+ok    2026-11-13 B200  published 8.1719, recomputed 8.1719  (10 providers, 10 priced that day; 8.0264 x 1.018120 from 2026-11-12)
+ok    2026-11-13 B300  published 9.5077, recomputed 9.5077  (9 providers, 9 priced that day; 9.4439 x 1.006756 from 2026-11-12)
+ok    2026-11-13 RTX PRO 6000  published 2.1174, recomputed 2.1174  (9 providers, 9 priced that day; 2.0744 x 1.020719 from 2026-11-12)
+ok    2026-11-13 L40S  published 1.4052, recomputed 1.4052  (10 providers, 10 priced that day; 1.4068 x 0.998872 from 2026-11-12)
+ok    2026-11-13 RTX A6000  published 0.595, recomputed 0.595  (7 providers, 7 priced that day; 0.5903 x 1.007871 from 2026-11-12)
+ok    2026-11-13 RTX 6000 Ada  published 0.9406, recomputed 0.9406  (5 providers, 5 priced that day; 0.9291 x 1.012362 from 2026-11-12)
+ok    2026-11-13 L40  published 0.92, recomputed 0.92  (5 providers, 4 priced that day; 0.92 x 1.000000 from 2026-11-12)
+ok    2026-11-13 RTX 5090  published 0.7033, recomputed 0.7033  (5 providers, 5 priced that day; 0.7007 x 1.003625 from 2026-11-12)
+ok    2026-11-13 RTX 4090  published 0.5237, recomputed 0.5237  (6 providers, 5 priced that day; 0.5269 x 0.993781 from 2026-11-12)
+ok    2026-11-13  every input file matches its SHA-256; the day's state reproduces
+ok    2026-11-13  510029 price readings at 690 collections rebuild every offer's counts and sums in the day's records
 ok    2026-10-22 Alibaba  published 0.5635, recomputed 0.5635  (2 models)
 ok    2026-10-22 Anthropic  published 5.15, recomputed 5.15  (5 models)
 ok    2026-10-22 DeepSeek  published 0.2859, recomputed 0.2859  (2 models)
@@ -486,9 +500,23 @@ ok    2026-11-11 StepFun  published 0.234, recomputed 0.234  (1 models)
 ok    2026-11-11 Xiaomi  published 0.029, recomputed 0.029  (2 models)
 ok    2026-11-11 Z.ai  published 0.1526, recomputed 0.1526  (3 models)
 ok    2026-11-11 xAI  published 0.735, recomputed 0.735  (1 models)
+ok    2026-11-12 Alibaba  published 0.0692, recomputed 0.0692  (3 models)
+ok    2026-11-12 Anthropic  published 0.6407, recomputed 0.6407  (5 models)
+ok    2026-11-12 DeepSeek  published 0.0277, recomputed 0.0277  (2 models)
+ok    2026-11-12 Google  published 0.2532, recomputed 0.2532  (5 models)
+ok    2026-11-12 Meta  published 0.0166, recomputed 0.0166  (2 models)
+ok    2026-11-12 MiniMax  published 0.0485, recomputed 0.0485  (2 models)
+ok    2026-11-12 Mistral  published 0.1825, recomputed 0.1825  (1 models)
+ok    2026-11-12 Moonshot AI  published 0.591, recomputed 0.591  (2 models)
+ok    2026-11-12 NVIDIA  published 0.0404, recomputed 0.0404  (1 models)
+ok    2026-11-12 OpenAI  published 0.1503, recomputed 0.1503  (5 models)
+ok    2026-11-12 StepFun  published 0.234, recomputed 0.234  (1 models)
+ok    2026-11-12 Xiaomi  published 0.0296, recomputed 0.0296  (2 models)
+ok    2026-11-12 Z.ai  published 0.1729, recomputed 0.1729  (3 models)
+ok    2026-11-12 xAI  published 0.735, recomputed 0.735  (1 models)
 note  started since this copy's catalog (data/families.json): RTX 5090 from 2026-11-06
 note  this copy of catalog.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of method.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of recompute.py differs from the one that wrote the gpu manifests from 2026-10-23
 
-488 checked, 0 mismatches: every value reproduces
+516 checked, 0 mismatches: every value reproduces
