@@ -64,6 +64,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.3356,0.085,0.15045
 2026-11-13,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.2563,0.085,0.15045
 2026-11-14,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.3083,0.085,0.15045
+2026-11-15,Alibaba,Qwen3.8 27B,qwen/qwen3.8-27b,0.425,2.55,0.95625,0.2659,0.085,0.15045
 2026-08-29,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.2859,0.016,0.03662
 2026-08-30,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.3764,0.016,0.03662
 2026-09-05,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.5075,0.016,0.03662
@@ -131,6 +132,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.4529,0.016,0.03662
 2026-11-13,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.5313,0.016,0.03662
 2026-11-14,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.6917,0.016,0.03662
+2026-11-15,Alibaba,Qwen3.8 Flash,qwen/qwen3.8-flash,0.15,0.47,0.23,0.7341,0.016,0.03662
 2026-09-05,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,0.4925,0.25,0.5175
 2026-09-06,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,0.3709,0.25,0.5175
 2026-09-07,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,0.6496,0.25,0.5175
@@ -167,6 +169,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,,0.25,0.5175
 2026-11-13,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,,0.25,0.5175
 2026-11-14,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,,0.25,0.5175
+2026-11-15,Alibaba,Qwen3.8 Max (0902),qwen/qwen3.8-max-0902,2.0,6.0,3.0,,0.25,0.5175
 2026-09-02,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,0.0919,0.25,1.9175
 2026-09-03,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,0.0869,0.25,1.9175
 2026-09-04,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,0.074,0.25,1.9175
@@ -218,11 +221,13 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,,0.25,1.9175
 2026-11-13,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,,0.25,1.9175
 2026-11-14,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,,0.25,1.9175
+2026-11-15,Anthropic,Claude Fable 5.1,anthropic/claude-fable-5.1,10.0,50.0,20.0,,0.25,1.9175
 2026-11-10,Anthropic,Claude Fable 5.2,anthropic/claude-fable-5.2,8.0,40.0,16.0,0.0806,0.2,1.534
 2026-11-11,Anthropic,Claude Fable 5.2,anthropic/claude-fable-5.2,8.0,40.0,16.0,0.0591,0.2,1.534
 2026-11-12,Anthropic,Claude Fable 5.2,anthropic/claude-fable-5.2,8.0,40.0,16.0,0.0597,0.2,1.534
 2026-11-13,Anthropic,Claude Fable 5.2,anthropic/claude-fable-5.2,8.0,40.0,16.0,0.0879,0.2,1.534
 2026-11-14,Anthropic,Claude Fable 5.2,anthropic/claude-fable-5.2,8.0,40.0,16.0,0.064,0.2,1.534
+2026-11-15,Anthropic,Claude Fable 5.2,anthropic/claude-fable-5.2,8.0,40.0,16.0,0.0733,0.2,1.534
 2026-10-08,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.2035,0.01,0.0257
 2026-10-09,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.1558,0.01,0.0257
 2026-10-10,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.1515,0.01,0.0257
@@ -260,6 +265,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.1968,0.01,0.0257
 2026-11-13,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.1892,0.01,0.0257
 2026-11-14,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.2125,0.01,0.0257
+2026-11-15,Anthropic,Claude Haiku 5.5,anthropic/claude-haiku-5.5,0.1,0.5,0.2,0.2021,0.01,0.0257
 2026-09-23,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.2751,0.2,0.854
 2026-09-24,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.2919,0.2,0.854
 2026-09-25,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.3019,0.2,0.854
@@ -312,6 +318,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.5237,0.2,0.854
 2026-11-13,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.5468,0.2,0.854
 2026-11-14,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.5243,0.2,0.854
+2026-11-15,Anthropic,Claude Opus 5.5,anthropic/claude-opus-5.5,4.0,20.0,8.0,0.5027,0.2,0.854
 2026-09-29,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1196,0.2,0.514
 2026-09-30,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1461,0.2,0.514
 2026-10-01,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1795,0.2,0.514
@@ -358,6 +365,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1864,0.1,0.427
 2026-11-13,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1762,0.1,0.427
 2026-11-14,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.1991,0.1,0.427
+2026-11-15,Anthropic,Claude Sonnet 5.5,anthropic/claude-sonnet-5.5,2.0,10.0,4.0,0.2218,0.1,0.427
 2026-08-13,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,1.74,3.48,2.175,0.0644,0.145,0.36975
 2026-08-14,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,1.74,3.48,2.175,0.0954,0.145,0.36975
 2026-08-15,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,1.74,3.48,2.175,0.1025,0.145,0.36975
@@ -451,6 +459,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,0.66,1.98,0.99,0.0121,0.022,0.11814
 2026-11-13,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,0.66,1.98,0.99,0.0119,0.022,0.11814
 2026-11-14,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,0.66,1.98,0.99,0.009,0.022,0.11814
+2026-11-15,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro-0813,0.66,1.98,0.99,0.0115,0.022,0.11814
 2026-10-17,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.1395,0.003,0.02661
 2026-10-18,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.968,0.003,0.02661
 2026-10-19,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9674,0.003,0.02661
@@ -479,6 +488,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9879,0.003,0.02661
 2026-11-13,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9881,0.003,0.02661
 2026-11-14,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.991,0.003,0.02661
+2026-11-15,DeepSeek,DeepSeek V4.1 Flash 1017,deepseek/deepseek-v4.1-flash-1017,0.15,0.6,0.2625,0.9885,0.003,0.02661
 2025-12-17,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.0223,0.05,0.1335
 2025-12-18,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1078,0.05,0.1335
 2025-12-19,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1494,0.05,0.1335
@@ -811,6 +821,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1465,0.05,0.1335
 2026-11-13,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1486,0.05,0.1335
 2026-11-14,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1738,0.05,0.1335
+2026-11-15,Google,Gemini 3 Flash Preview,google/gemini-3-flash-preview,0.5,3.0,1.125,0.1774,0.05,0.1335
 2026-09-02,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.0569,0.075,0.19275
 2026-09-03,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.2551,0.075,0.19275
 2026-09-04,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.3522,0.075,0.19275
@@ -884,6 +895,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.3814,0.075,0.19275
 2026-11-13,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.3469,0.075,0.19275
 2026-11-14,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.3619,0.075,0.19275
+2026-11-15,Google,Gemini 3.8 Flash,google/gemini-3.8-flash,0.75,3.75,1.5,0.3504,0.075,0.19275
 2026-10-14,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.1759,0.1,0.427
 2026-10-15,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.1743,0.1,0.427
 2026-10-16,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.2213,0.1,0.427
@@ -915,14 +927,17 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.2154,0.1,0.427
 2026-11-13,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.206,0.1,0.427
 2026-11-14,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.1782,0.1,0.427
+2026-11-15,Google,Gemini 4 Argon,google/gemini-4-argon,2.0,10.0,4.0,0.1758,0.1,0.427
 2026-11-11,Google,Gemini 4 Carbon,google/gemini-4-carbon,2.0,10.0,4.0,0.1415,0.1,0.427
 2026-11-12,Google,Gemini 4 Carbon,google/gemini-4-carbon,2.0,10.0,4.0,0.1416,0.1,0.427
 2026-11-13,Google,Gemini 4 Carbon,google/gemini-4-carbon,2.0,10.0,4.0,0.1802,0.1,0.427
 2026-11-14,Google,Gemini 4 Carbon,google/gemini-4-carbon,2.0,10.0,4.0,0.2861,0.1,0.427
+2026-11-15,Google,Gemini 4 Carbon,google/gemini-4-carbon,2.0,10.0,4.0,0.2963,0.1,0.427
 2026-11-10,Meta,Muse Ember,meta/muse-ember,0.1,0.5,0.2,0.1558,0.004,0.02048
 2026-11-12,Meta,Muse Ember,meta/muse-ember,0.1,0.5,0.2,0.1719,0.004,0.02048
 2026-11-13,Meta,Muse Ember,meta/muse-ember,0.1,0.5,0.2,0.2318,0.004,0.02048
 2026-11-14,Meta,Muse Ember,meta/muse-ember,0.1,0.5,0.2,0.2011,0.004,0.02048
+2026-11-15,Meta,Muse Ember,meta/muse-ember,0.1,0.5,0.2,0.1643,0.004,0.02048
 2026-09-03,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,0.77,0.002,0.01574
 2026-09-04,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,1.0,0.002,0.01574
 2026-09-05,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,1.0,0.002,0.01574
@@ -995,6 +1010,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,0.8281,0.002,0.01574
 2026-11-13,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,0.7682,0.002,0.01574
 2026-11-14,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,0.7989,0.002,0.01574
+2026-11-15,Meta,Muse Spark 1.3 Contributor,meta/muse-spark-1.3-contributor,0.1,0.2,0.125,0.8357,0.002,0.01574
 2026-10-28,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
 2026-10-29,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
 2026-10-30,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
@@ -1012,6 +1028,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
 2026-11-13,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
 2026-11-14,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
+2026-11-15,Meta,Muse Spark Open,meta/muse-spark-open,1.25,4.25,2.0,,0.15,0.323
 2026-10-13,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,0.116,0.2,0.854
 2026-10-28,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
 2026-10-29,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
@@ -1030,6 +1047,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
 2026-11-13,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
 2026-11-14,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
+2026-11-15,Meta,Muse Wonder,meta/muse-wonder,4.0,20.0,8.0,,0.2,0.854
 2026-06-01,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.3338,0.06,0.1002
 2026-06-02,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.7007,0.06,0.1002
 2026-06-03,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.8724,0.06,0.1002
@@ -1194,6 +1212,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.1814,0.06,0.1002
 2026-11-13,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.1386,0.06,0.1002
 2026-11-14,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.1279,0.06,0.1002
+2026-11-15,MiniMax,MiniMax M3,minimax/minimax-m3,0.3,1.2,0.525,0.1229,0.06,0.1002
 2026-10-23,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.3902,0.015,0.03705
 2026-10-24,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.5554,0.015,0.03705
 2026-10-25,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.6178,0.015,0.03705
@@ -1216,6 +1235,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.8186,0.015,0.03705
 2026-11-13,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.8614,0.015,0.03705
 2026-11-14,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.8721,0.015,0.03705
+2026-11-15,MiniMax,MiniMax M3.1 Flash,minimax/minimax-m3.1-flash,0.15,0.6,0.2625,0.8771,0.015,0.03705
 2026-10-12,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.68,2.09,1.0325,1.0,0.07,0.1634
 2026-10-13,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.68,2.09,1.0325,1.0,0.07,0.1634
 2026-10-14,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.68,2.09,1.0325,1.0,0.07,0.1634
@@ -1249,6 +1269,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.77,2.31,1.155,,0.077,0.18249
 2026-11-13,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.7,2.1,1.05,,0.07,0.1659
 2026-11-14,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.7,2.1,1.05,,0.07,0.1659
+2026-11-15,Mistral,Mistral Large 4,mistralai/mistral-large-4-0,0.7,2.1,1.05,,0.07,0.1659
 2026-07-17,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.3696,0.3,0.771
 2026-07-18,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.6883,0.3,0.771
 2026-07-19,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.7446,0.3,0.771
@@ -1369,6 +1390,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.2994,0.3,0.771
 2026-11-13,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.2955,0.3,0.771
 2026-11-14,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.2187,0.3,0.771
+2026-11-15,Moonshot AI,Kimi K3,moonshotai/kimi-k3,3.0,15.0,6.0,0.2431,0.3,0.771
 2026-10-23,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.1939,0.2,0.514
 2026-10-24,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.6078,0.2,0.514
 2026-10-25,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.5602,0.2,0.514
@@ -1391,6 +1413,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.7006,0.2,0.514
 2026-11-13,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.7045,0.2,0.514
 2026-11-14,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.7813,0.2,0.514
+2026-11-15,Moonshot AI,Kimi K3.1 Pro,moonshotai/kimi-k3.1-pro,2.0,10.0,4.0,0.7569,0.2,0.514
 2026-10-28,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,,0.02,0.0404
 2026-10-29,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,,0.02,0.0404
 2026-10-30,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,,0.02,0.0404
@@ -1408,6 +1431,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,1.0,0.02,0.0404
 2026-11-13,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,1.0,0.02,0.0404
 2026-11-14,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,1.0,0.02,0.0404
+2026-11-15,NVIDIA,Nemotron 3.5 Super VL,nvidia/nemotron-3.5-super-vl,0.15,0.5,0.2375,1.0,0.02,0.0404
 2026-07-11,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,1.0,6.0,2.25,0.0973,0.1,0.267
 2026-07-12,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,1.0,6.0,2.25,0.0988,0.1,0.267
 2026-07-13,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,1.0,6.0,2.25,0.1018,0.1,0.267
@@ -1534,6 +1558,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,0.2,1.2,0.45,0.1308,0.02,0.0534
 2026-11-13,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,0.2,1.2,0.45,0.1201,0.02,0.0534
 2026-11-14,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,0.2,1.2,0.45,0.1589,0.02,0.0534
+2026-11-15,OpenAI,GPT-5.6 Luna,openai/gpt-5.6-luna,0.2,1.2,0.45,0.1132,0.02,0.0534
 2026-09-05,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0301,1.0,2.57
 2026-09-06,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0253,1.0,2.57
 2026-09-07,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,0.0281,1.0,2.57
@@ -1599,6 +1624,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,,1.0,2.57
 2026-11-13,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,,1.0,2.57
 2026-11-14,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,,1.0,2.57
+2026-11-15,OpenAI,GPT-6 Astra,openai/gpt-6-astra,10.0,50.0,20.0,,1.0,2.57
 2026-09-22,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.0361,0.01,0.0257
 2026-09-23,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.1657,0.01,0.0257
 2026-09-24,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.227,0.01,0.0257
@@ -1652,6 +1678,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.496,0.01,0.0257
 2026-11-13,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.5293,0.01,0.0257
 2026-11-14,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.5748,0.01,0.0257
+2026-11-15,OpenAI,GPT-6 Luna,openai/gpt-6-luna,0.1,0.5,0.2,0.6189,0.01,0.0257
 2026-09-30,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.0412,0.1,0.427
 2026-10-01,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.0587,0.1,0.427
 2026-10-02,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.0715,0.1,0.427
@@ -1697,6 +1724,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.268,0.1,0.427
 2026-11-13,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.2309,0.1,0.427
 2026-11-14,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.1977,0.1,0.427
+2026-11-15,OpenAI,GPT-6.1 Sol,openai/gpt-6.1-sol,2.0,10.0,4.0,0.1985,0.1,0.427
 2026-10-27,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0401,0.05,0.2135
 2026-10-28,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.033,0.05,0.2135
 2026-10-29,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0316,0.05,0.2135
@@ -1715,6 +1743,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0716,0.05,0.2135
 2026-11-13,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0808,0.05,0.2135
 2026-11-14,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0687,0.05,0.2135
+2026-11-15,OpenAI,GPT-6.1 Terra,openai/gpt-6.1-terra,1.0,5.0,2.0,0.0693,0.05,0.2135
 2026-10-28,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
 2026-10-29,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
 2026-10-30,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
@@ -1732,6 +1761,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
 2026-11-13,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
 2026-11-14,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
+2026-11-15,Reflection AI,Beam 1.0 501B A23B,reflection/beam-1.0-501b-a23b,0.4,1.2,0.6,,0.04,0.0948
 2026-10-08,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.05,0.1905
 2026-10-09,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.05,0.1905
 2026-10-10,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.05,0.1905
@@ -1769,6 +1799,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.1,0.234
 2026-11-13,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.1,0.234
 2026-11-14,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.1,0.234
+2026-11-15,StepFun,Step 5 Preview,stepfun/step-5-preview,1.0,2.7,1.425,1.0,0.1,0.234
 2026-10-28,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
 2026-10-29,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
 2026-10-30,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
@@ -1786,7 +1817,9 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
 2026-11-13,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
 2026-11-14,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
+2026-11-15,Thinking Machines,Inkling,thinkingmachines/inkling,1.0,4.05,1.7625,,0.17,0.3084
 2026-11-14,Thinking Machines,Inkling 2 Small,thinkingmachines/inkling-2-small,0.3,1.0,0.475,1.0,0.03,0.0721
+2026-11-15,Thinking Machines,Inkling 2 Small,thinkingmachines/inkling-2-small,0.3,1.0,0.475,,0.03,0.0721
 2026-09-22,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.1441,0.0028,0.022036
 2026-09-23,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.5251,0.0028,0.022036
 2026-09-24,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.7253,0.0028,0.022036
@@ -1840,6 +1873,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.8187,0.0028,0.022036
 2026-11-13,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.8203,0.0028,0.022036
 2026-11-14,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.8219,0.0028,0.022036
+2026-11-15,Xiaomi,MiMo-V2.6-Flash,xiaomi/mimo-v2.6-flash,0.14,0.28,0.175,0.7916,0.0028,0.022036
 2026-09-22,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1794,0.0036,0.064032
 2026-09-23,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1549,0.0036,0.064032
 2026-09-24,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1163,0.0036,0.064032
@@ -1893,6 +1927,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1813,0.0036,0.064032
 2026-11-13,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1797,0.0036,0.064032
 2026-11-14,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.1781,0.0036,0.064032
+2026-11-15,Xiaomi,MiMo-V2.6-Pro,xiaomi/mimo-v2.6-pro,0.435,0.87,0.54375,0.2084,0.0036,0.064032
 2026-06-16,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.1076,0.26,0.4382
 2026-06-17,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.4044,0.26,0.4382
 2026-06-18,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.5309,0.26,0.4382
@@ -2044,6 +2079,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.0642,0.26,0.4382
 2026-11-13,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.0642,0.26,0.4382
 2026-11-14,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.0627,0.26,0.4382
+2026-11-15,Z.ai,GLM 5.2,z-ai/glm-5.2,1.4,4.4,2.15,0.0787,0.26,0.4382
 2026-08-19,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.1057,0.26,0.4382
 2026-08-20,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.1647,0.26,0.4382
 2026-08-21,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.2086,0.26,0.4382
@@ -2131,6 +2167,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.2539,0.26,0.4382
 2026-11-13,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.2353,0.26,0.4382
 2026-11-14,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.194,0.26,0.4382
+2026-11-15,Z.ai,GLM 5.3,z-ai/glm-5.3,1.4,4.4,2.15,0.2479,0.26,0.4382
 2026-08-26,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.2908,0.03,0.0491
 2026-08-27,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.6804,0.03,0.0491
 2026-08-28,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.7371,0.03,0.0491
@@ -2211,6 +2248,7 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.6819,0.03,0.0491
 2026-11-13,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.7005,0.03,0.0491
 2026-11-14,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.7433,0.03,0.0491
+2026-11-15,Z.ai,GLM 5.3 Flash,z-ai/glm-5.3-flash,0.15,0.5,0.2375,0.6734,0.03,0.0491
 2026-09-22,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
 2026-09-23,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
 2026-09-24,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
@@ -2264,3 +2302,4 @@ date,company,model,model_id,usd_per_1m_input,usd_per_1m_output,usd_per_1m_blende
 2026-11-12,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
 2026-11-13,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
 2026-11-14,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,1.0,0.5,0.735
+2026-11-15,xAI,Grok 4.7,x-ai/grok-4.7,2.0,6.0,3.0,,0.5,0.735
