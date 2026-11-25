@@ -1,71 +1,71 @@
 gpu,provider,average_usd_per_gpu_hour,prices,status,read_at
-H100,Latitude.sh,2.4102,0,imputed: no capacity at any collection,
-H100,Akash,2.76,1,observed,2026-11-24T18:54:57Z
-H100,Civo,2.99,2,observed,2026-11-24T18:36:52Z
-H100,Lium,3.0391,0,imputed: price move held until confirmed,
-H100,Vast.ai,3.0961,40,observed,2026-11-24T18:54:57Z
-H100,Excess Supply via Shadeform,3.1363,0,imputed: no capacity at any collection,
-H100,RunPod,3.1578,6,observed,2026-11-24T18:54:57Z
-H100,Hyperstack,3.1999,3,observed,2026-11-24T18:36:52Z
-H100,Massed Compute,3.2821,8,observed,2026-11-24T18:54:57Z
-H100,Jarvis Labs,3.49,1,observed,2026-11-24T18:36:52Z
-H100,Scaleway,3.7595,7,observed,2026-11-24T18:51:53Z
-H100,OVHcloud,3.8435,3,observed,2026-11-24T18:36:52Z
-H100,Together AI,3.99,1,observed,2026-11-24T18:36:52Z
-H100,Nebius,4.5,1,observed,2026-11-24T18:36:52Z
-H100,Lambda,4.7815,4,observed,2026-11-24T18:36:52Z
-H100,DigitalOcean,5.4455,3,observed,2026-11-24T18:54:57Z
-H100,Verda (DataCrunch),5.6049,5,observed,2026-11-24T18:51:53Z
-H100,CoreWeave,6.155,1,observed,2026-11-24T17:49:09Z
-H200,Civo,3.49,2,observed,2026-11-24T18:36:52Z
-H200,Hyperstack,3.99,1,observed,2026-11-24T18:36:52Z
-H200,Excess Supply via Shadeform,4.36,8,observed,2026-11-24T18:54:57Z
-H200,Lium,4.4408,19,observed,2026-11-24T18:54:57Z
-H200,Jarvis Labs,4.59,1,observed,2026-11-24T18:36:52Z
-H200,RunPod,4.5975,3,observed,2026-11-24T18:54:57Z
-H200,Massed Compute,4.7786,6,observed,2026-11-24T18:36:52Z
-H200,Nebius,5.4,1,observed,2026-11-24T18:36:52Z
-H200,Vast.ai,5.5044,57,observed,2026-11-24T18:54:57Z
-H200,Together AI,5.99,1,observed,2026-11-24T18:36:52Z
-H200,CoreWeave,6.305,1,observed,2026-11-24T17:49:09Z
-H200,Verda (DataCrunch),7.1661,4,observed,2026-11-24T18:51:53Z
-A100,Lium,0.9425,0,imputed: price move held until confirmed,
-A100,Vast.ai,1.1404,79,observed,2026-11-24T18:54:57Z
-A100,Akash,1.3338,2,observed,2026-11-24T18:54:57Z
-A100,Massed Compute,1.4662,8,observed,2026-11-24T18:54:57Z
-A100,Hyperstack,1.5875,3,observed,2026-11-24T18:36:52Z
-A100,RunPod,1.7508,5,observed,2026-11-24T18:54:57Z
-A100,Denvr via Shadeform,1.7665,4,observed,2026-11-24T18:54:57Z
-A100,Excess Supply via Shadeform,1.7767,4,observed,2026-11-24T18:54:57Z
-A100,Crusoe via Shadeform,2.237,9,observed,2026-11-24T18:54:57Z
-A100,Verda (DataCrunch),2.4624,6,observed,2026-11-24T18:51:53Z
-A100,Vultr,2.7782,2,observed,2026-11-24T18:51:53Z
-A100,Lambda,2.9191,4,observed,2026-11-24T18:36:52Z
-A100,DigitalOcean,3.9533,8,observed,2026-11-24T18:54:57Z
-B200,Hyperstack,6.0,1,observed,2026-11-24T18:36:52Z
-B200,RunPod,6.985,2,observed,2026-11-24T18:54:57Z
-B200,Lium,7.3572,9,observed,2026-11-24T18:54:57Z
-B200,Lambda,7.89,3,observed,2026-11-24T18:36:52Z
-B200,Vast.ai,8.4905,19,observed,2026-11-24T18:54:57Z
-B200,Nebius,8.5,1,observed,2026-11-24T18:36:52Z
-B200,CoreWeave,8.6,1,observed,2026-11-24T17:49:09Z
-B200,Together AI,9.29,1,observed,2026-11-24T18:36:52Z
-B200,Verda (DataCrunch),9.8192,4,observed,2026-11-24T18:51:53Z
-B300,Hyperstack,7.4,1,observed,2026-11-24T18:36:52Z
-B300,RunPod,7.965,2,observed,2026-11-24T18:54:57Z
-B300,Latitude.sh,8.0,1,observed,2026-11-24T18:36:52Z
-B300,Lium,9.2444,0,imputed: marketplace book too thin,
-B300,Nebius,9.5,1,observed,2026-11-24T18:36:52Z
-B300,Vast.ai,10.9271,14,observed,2026-11-24T18:54:57Z
-B300,Together AI,11.49,1,observed,2026-11-24T18:36:52Z
-B300,Verda (DataCrunch),13.2766,4,observed,2026-11-24T18:51:53Z
-RTX PRO 6000,Vast.ai,1.5747,371,observed,2026-11-24T18:54:57Z
-RTX PRO 6000,Lium,1.7646,16,observed,2026-11-24T18:54:57Z
-RTX PRO 6000,Nebius,1.8,1,observed,2026-11-24T18:36:52Z
-RTX PRO 6000,Hyperstack,1.85,1,observed,2026-11-24T18:36:52Z
-RTX PRO 6000,EcoHash,1.89,4,observed,2026-11-24T18:36:52Z
-RTX PRO 6000,Akash,2.1,2,observed,2026-11-24T18:54:57Z
-RTX PRO 6000,RunPod,2.1227,5,observed,2026-11-24T18:54:57Z
-RTX PRO 6000,Jarvis Labs,2.19,1,observed,2026-11-24T18:36:52Z
-RTX PRO 6000,CoreWeave,2.5,1,observed,2026-11-24T17:49:09Z
-RTX PRO 6000,Verda (DataCrunch),3.0331,4,observed,2026-11-24T18:51:53Z
+H100,Latitude.sh,2.4109,4,observed,2026-11-25T17:59:04Z
+H100,Akash,2.76,1,observed,2026-11-25T17:59:04Z
+H100,Civo,2.99,2,observed,2026-11-25T17:38:08Z
+H100,Vast.ai,3.012,46,observed,2026-11-25T17:59:04Z
+H100,RunPod,3.1578,6,observed,2026-11-25T17:59:04Z
+H100,Excess Supply via Shadeform,3.1713,0,imputed: no capacity at any collection,
+H100,Hyperstack,3.1999,3,observed,2026-11-25T17:38:08Z
+H100,Lium,3.2916,8,observed,2026-11-25T17:59:04Z
+H100,Massed Compute,3.3825,8,observed,2026-11-25T17:59:04Z
+H100,Jarvis Labs,3.49,1,observed,2026-11-25T17:38:08Z
+H100,Scaleway,3.7677,7,observed,2026-11-25T17:59:04Z
+H100,OVHcloud,3.852,3,observed,2026-11-25T17:38:08Z
+H100,Together AI,3.99,1,observed,2026-11-25T17:38:08Z
+H100,Nebius,4.5,1,observed,2026-11-25T17:38:08Z
+H100,Lambda,4.7815,4,observed,2026-11-25T17:38:08Z
+H100,DigitalOcean,5.4455,3,observed,2026-11-25T17:59:04Z
+H100,Verda (DataCrunch),5.6194,5,observed,2026-11-25T17:59:04Z
+H100,CoreWeave,6.155,1,observed,2026-11-25T14:26:19Z
+H200,Civo,3.49,2,observed,2026-11-25T17:38:08Z
+H200,Hyperstack,3.99,1,observed,2026-11-25T17:38:08Z
+H200,Excess Supply via Shadeform,4.3794,8,observed,2026-11-25T17:59:04Z
+H200,Lium,4.5221,16,observed,2026-11-25T17:59:04Z
+H200,Jarvis Labs,4.59,1,observed,2026-11-25T17:38:08Z
+H200,RunPod,4.5975,3,observed,2026-11-25T17:59:04Z
+H200,Massed Compute,4.807,6,observed,2026-11-25T17:38:08Z
+H200,Nebius,5.4,1,observed,2026-11-25T17:38:08Z
+H200,Vast.ai,5.6633,59,observed,2026-11-25T17:59:04Z
+H200,Together AI,5.99,1,observed,2026-11-25T17:38:08Z
+H200,CoreWeave,6.305,1,observed,2026-11-25T14:26:19Z
+H200,Verda (DataCrunch),7.1844,4,observed,2026-11-25T17:59:04Z
+A100,Lium,0.9561,14,observed,2026-11-25T17:59:04Z
+A100,Vast.ai,1.154,72,observed,2026-11-25T17:59:04Z
+A100,Akash,1.3338,2,observed,2026-11-25T17:59:04Z
+A100,Massed Compute,1.4818,8,observed,2026-11-25T17:59:04Z
+A100,Hyperstack,1.5875,3,observed,2026-11-25T17:38:08Z
+A100,RunPod,1.7508,5,observed,2026-11-25T17:59:04Z
+A100,Denvr via Shadeform,1.7665,4,observed,2026-11-25T17:59:04Z
+A100,Excess Supply via Shadeform,1.7767,4,observed,2026-11-25T17:59:04Z
+A100,Crusoe via Shadeform,2.237,9,observed,2026-11-25T17:59:04Z
+A100,Verda (DataCrunch),2.4645,6,observed,2026-11-25T17:59:04Z
+A100,Vultr,2.7782,2,observed,2026-11-25T17:59:04Z
+A100,Lambda,2.9191,4,observed,2026-11-25T17:38:08Z
+A100,DigitalOcean,3.9533,8,observed,2026-11-25T17:59:04Z
+B200,Lium,5.9531,16,observed,2026-11-25T17:59:04Z
+B200,Hyperstack,6.0,1,observed,2026-11-25T17:38:08Z
+B200,RunPod,7.0201,2,observed,2026-11-25T17:59:04Z
+B200,Lambda,7.89,3,observed,2026-11-25T17:38:08Z
+B200,Nebius,8.5,1,observed,2026-11-25T17:38:08Z
+B200,CoreWeave,8.6,1,observed,2026-11-25T14:26:19Z
+B200,Vast.ai,9.0951,21,observed,2026-11-25T17:59:04Z
+B200,Together AI,9.29,1,observed,2026-11-25T17:38:08Z
+B200,Verda (DataCrunch),9.8444,4,observed,2026-11-25T17:59:04Z
+B300,Hyperstack,7.4,1,observed,2026-11-25T17:38:08Z
+B300,Lium,7.5935,12,observed,2026-11-25T16:38:09Z
+B300,Latitude.sh,8.0,1,observed,2026-11-25T17:38:08Z
+B300,RunPod,8.0177,2,observed,2026-11-25T17:59:04Z
+B300,Nebius,9.5,1,observed,2026-11-25T17:38:08Z
+B300,Vast.ai,10.9901,12,observed,2026-11-25T17:59:04Z
+B300,Together AI,11.49,1,observed,2026-11-25T17:38:08Z
+B300,Verda (DataCrunch),13.3106,4,observed,2026-11-25T17:59:04Z
+RTX PRO 6000,Vast.ai,1.5719,366,observed,2026-11-25T17:59:04Z
+RTX PRO 6000,Lium,1.7686,18,observed,2026-11-25T17:59:04Z
+RTX PRO 6000,Nebius,1.8,1,observed,2026-11-25T17:38:08Z
+RTX PRO 6000,Hyperstack,1.85,1,observed,2026-11-25T17:38:08Z
+RTX PRO 6000,EcoHash,1.89,4,observed,2026-11-25T17:38:08Z
+RTX PRO 6000,Akash,2.0852,2,observed,2026-11-25T17:59:04Z
+RTX PRO 6000,RunPod,2.1227,5,observed,2026-11-25T17:59:04Z
+RTX PRO 6000,Jarvis Labs,2.19,1,observed,2026-11-25T17:38:08Z
+RTX PRO 6000,CoreWeave,2.5,1,observed,2026-11-25T14:26:19Z
+RTX PRO 6000,Verda (DataCrunch),3.0408,4,observed,2026-11-25T17:59:04Z
