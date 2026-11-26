@@ -689,6 +689,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Anthropic,0.5764,true,false
 2026-11-23,Anthropic,0.5936,true,false
 2026-11-24,Anthropic,0.6103,true,false
+2026-11-25,Anthropic,0.6132,true,false
 2025-01-01,OpenAI,0.3665,true,true
 2025-01-02,OpenAI,0.449,true,true
 2025-01-03,OpenAI,0.8679,true,true
@@ -1379,6 +1380,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,OpenAI,0.1491,true,false
 2026-11-23,OpenAI,0.1384,true,false
 2026-11-24,OpenAI,0.1452,true,false
+2026-11-25,OpenAI,0.2144,true,false
 2025-01-01,Google,0.0294,true,true
 2025-01-02,Google,0.0293,true,true
 2025-01-03,Google,0.0294,true,true
@@ -2046,6 +2048,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Google,0.3796,true,false
 2026-11-23,Google,0.3428,true,false
 2026-11-24,Google,0.3422,true,false
+2026-11-25,Google,0.3669,true,false
 2025-01-01,xAI,2.08,true,true
 2025-01-02,xAI,2.08,true,true
 2025-01-03,xAI,2.08,true,true
@@ -2735,6 +2738,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,xAI,0.735,true,false
 2026-11-23,xAI,0.735,true,false
 2026-11-24,xAI,0.735,true,false
+2026-11-25,xAI,0.735,true,false
 2026-08-06,Meta,0.323,true,true
 2026-08-07,Meta,0.323,true,true
 2026-08-08,Meta,0.323,true,true
@@ -2845,6 +2849,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Meta,0.0166,true,false
 2026-11-23,Meta,0.0168,true,false
 2026-11-24,Meta,0.0167,true,false
+2026-11-25,Meta,0.0168,true,false
 2025-07-12,Moonshot AI,0.2275,true,true
 2025-07-13,Moonshot AI,0.2275,true,true
 2025-07-14,Moonshot AI,0.2275,true,true
@@ -3344,6 +3349,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Moonshot AI,0.5587,true,false
 2026-11-23,Moonshot AI,0.5623,true,false
 2026-11-24,Moonshot AI,0.5434,true,false
+2026-11-25,Moonshot AI,0.5511,true,false
 2025-11-13,Alibaba,0.2861,true,true
 2025-11-14,Alibaba,0.2583,true,true
 2025-11-15,Alibaba,0.2219,true,true
@@ -3642,6 +3648,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Alibaba,0.0861,true,false
 2026-11-23,Alibaba,0.0827,true,false
 2026-11-24,Alibaba,0.0874,true,false
+2026-11-25,Alibaba,0.0927,true,false
 2025-01-01,DeepSeek,0.0318,true,true
 2025-01-02,DeepSeek,0.0318,true,true
 2025-01-03,DeepSeek,0.0318,true,true
@@ -4332,6 +4339,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,DeepSeek,0.0275,true,false
 2026-11-23,DeepSeek,0.0276,true,false
 2026-11-24,DeepSeek,0.0275,true,false
+2026-11-25,DeepSeek,0.0274,true,false
 2025-07-29,Z.ai,0.1897,true,true
 2025-07-30,Z.ai,0.1897,true,true
 2025-07-31,Z.ai,0.1897,true,true
@@ -4815,6 +4823,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Z.ai,0.1411,true,false
 2026-11-23,Z.ai,0.1498,true,false
 2026-11-24,Z.ai,0.1522,true,false
+2026-11-25,Z.ai,0.1682,true,false
 2026-01-26,Xiaomi,0.0237,true,true
 2026-01-27,Xiaomi,0.0237,true,true
 2026-01-28,Xiaomi,0.0237,true,true
@@ -5117,6 +5126,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Xiaomi,0.0297,true,false
 2026-11-23,Xiaomi,0.0304,true,false
 2026-11-24,Xiaomi,0.0303,true,false
+2026-11-25,Xiaomi,0.0309,true,false
 2026-03-15,StepFun,0.0324,true,true
 2026-03-16,StepFun,0.0324,true,true
 2026-03-17,StepFun,0.0324,true,true
@@ -5371,6 +5381,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,StepFun,0.234,true,false
 2026-11-23,StepFun,0.234,true,false
 2026-11-24,StepFun,0.234,true,false
+2026-11-25,StepFun,0.234,true,false
 2025-01-15,MiniMax,0.209,true,true
 2025-01-16,MiniMax,0.209,true,true
 2025-01-17,MiniMax,0.209,true,true
@@ -6046,6 +6057,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,MiniMax,0.0435,true,false
 2026-11-23,MiniMax,0.037,true,false
 2026-11-24,MiniMax,0.037,true,false
+2026-11-25,MiniMax,0.037,true,false
 2025-01-01,Mistral,0.1971,true,true
 2025-01-02,Mistral,0.1953,true,true
 2025-01-03,Mistral,0.1947,true,true
@@ -6664,6 +6676,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Mistral,0.1659,true,false
 2026-11-23,Mistral,0.1659,true,false
 2026-11-24,Mistral,0.1659,true,false
+2026-11-25,Mistral,0.1659,true,false
 2026-02-18,NVIDIA,0.02,true,true
 2026-02-19,NVIDIA,0.02,true,true
 2026-02-20,NVIDIA,0.02,true,true
@@ -6943,6 +6956,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,NVIDIA,0.0404,true,false
 2026-11-23,NVIDIA,0.0404,true,false
 2026-11-24,NVIDIA,0.0404,true,false
+2026-11-25,NVIDIA,0.0404,true,false
 2026-11-14,Thinking Machines,0.0721,true,false
 2026-11-15,Thinking Machines,0.0721,true,false
 2026-11-16,Thinking Machines,0.0721,true,false
@@ -6954,6 +6968,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Thinking Machines,0.025,true,false
 2026-11-23,Thinking Machines,0.025,true,false
 2026-11-24,Thinking Machines,0.025,true,false
+2026-11-25,Thinking Machines,0.0721,true,false
 2026-07-21,Tencent,0.0498,true,true
 2026-07-22,Tencent,0.0498,true,true
 2026-07-23,Tencent,0.0498,true,true
@@ -7080,6 +7095,7 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,Tencent,0.0115,true,false
 2026-11-23,Tencent,0.0118,true,false
 2026-11-24,Tencent,0.0085,true,false
+2026-11-25,Tencent,0.0112,true,false
 2026-10-03,inclusionAI,0.0146,true,true
 2026-10-04,inclusionAI,0.0146,true,true
 2026-10-05,inclusionAI,0.0146,true,true
@@ -7132,3 +7148,4 @@ date,company,usd_per_1m_tokens,final,rebuilt_history
 2026-11-22,inclusionAI,0.0194,true,false
 2026-11-23,inclusionAI,0.0243,true,false
 2026-11-24,inclusionAI,0.0243,true,false
+2026-11-25,inclusionAI,0.0243,true,false
