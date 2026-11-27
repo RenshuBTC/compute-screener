@@ -423,6 +423,20 @@ ok    2026-11-25 RTX 5090  published 0.7033, recomputed 0.7033  (5 providers, 5 
 ok    2026-11-25 RTX 4090  published 0.5285, recomputed 0.5285  (6 providers, 6 priced that day; 0.5264 x 1.003967 from 2026-11-24)
 FAIL  2026-11-25  the day's state recomputed differs from the stored state
 ok    2026-11-25  1000617 price readings at 1296 collections rebuild every offer's counts and sums in the day's records
+ok    2026-11-26 H100  published 3.7583, recomputed 3.7583  (18 providers, 18 priced that day; 3.795 x 0.990349 from 2026-11-25)
+ok    2026-11-26 H200  published 5.1601, recomputed 5.1601  (12 providers, 12 priced that day; 5.1877 x 0.994690 from 2026-11-25)
+ok    2026-11-26 A100  published 1.7031, recomputed 1.7031  (13 providers, 13 priced that day; 1.7066 x 0.997940 from 2026-11-25)
+ok    2026-11-26 B200  published 8.2833, recomputed 8.2833  (9 providers, 9 priced that day; 8.1948 x 1.010794 from 2026-11-25)
+ok    2026-11-26 B300  published 9.4873, recomputed 9.4873  (8 providers, 8 priced that day; 9.4421 x 1.004781 from 2026-11-25)
+FAIL  2026-11-26 RTX PRO 6000  published 2.1003, recomputed 2.0988  (10 providers, 10 priced that day; 2.1137 x 0.992940 from 2026-11-25)
+ok    2026-11-26 L40S  published 1.431, recomputed 1.431  (11 providers, 10 priced that day; 1.42 x 1.007763 from 2026-11-25)
+ok    2026-11-26 RTX A6000  published 0.5981, recomputed 0.5981  (7 providers, 7 priced that day; 0.6027 x 0.992391 from 2026-11-25)
+ok    2026-11-26 RTX 6000 Ada  published 0.8744, recomputed 0.8744  (5 providers, 5 priced that day; 0.9005 x 0.970936 from 2026-11-25)
+ok    2026-11-26 L40  published 0.9708, recomputed 0.9708  (5 providers, 4 priced that day; 0.9345 x 1.038828 from 2026-11-25)
+ok    2026-11-26 RTX 5090  published 0.7079, recomputed 0.7079  (5 providers, 5 priced that day; 0.7033 x 1.006437 from 2026-11-25)
+ok    2026-11-26 RTX 4090  published 0.5227, recomputed 0.5227  (6 providers, 6 priced that day; 0.5285 x 0.989092 from 2026-11-25)
+FAIL  2026-11-26  the day's state recomputed differs from the stored state
+ok    2026-11-26  937077 price readings at 1291 collections rebuild every offer's counts and sums in the day's records
 ok    2026-10-22 Alibaba  published 0.5635, recomputed 0.5635  (2 models)
 ok    2026-10-22 Anthropic  published 5.15, recomputed 5.15  (5 models)
 ok    2026-10-22 DeepSeek  published 0.2859, recomputed 0.2859  (2 models)
@@ -877,9 +891,26 @@ ok    2026-11-24 Xiaomi  published 0.0303, recomputed 0.0303  (2 models)
 ok    2026-11-24 Z.ai  published 0.1522, recomputed 0.1522  (3 models)
 ok    2026-11-24 inclusionAI  published 0.0243, recomputed 0.0243  (1 models)
 ok    2026-11-24 xAI  published 0.735, recomputed 0.735  (1 models)
+ok    2026-11-25 Alibaba  published 0.0927, recomputed 0.0927  (2 models)
+ok    2026-11-25 Anthropic  published 0.6132, recomputed 0.6132  (4 models)
+ok    2026-11-25 DeepSeek  published 0.0274, recomputed 0.0274  (2 models)
+ok    2026-11-25 Google  published 0.3669, recomputed 0.3669  (7 models)
+ok    2026-11-25 Meta  published 0.0168, recomputed 0.0168  (2 models)
+ok    2026-11-25 MiniMax  published 0.037, recomputed 0.037  (1 models)
+ok    2026-11-25 Mistral  published 0.1659, recomputed 0.1659  (1 models)
+ok    2026-11-25 Moonshot AI  published 0.5511, recomputed 0.5511  (2 models)
+ok    2026-11-25 NVIDIA  published 0.0404, recomputed 0.0404  (1 models)
+ok    2026-11-25 OpenAI  published 0.2144, recomputed 0.2144  (7 models)
+ok    2026-11-25 StepFun  published 0.234, recomputed 0.234  (1 models)
+ok    2026-11-25 Tencent  published 0.0112, recomputed 0.0112  (2 models)
+ok    2026-11-25 Thinking Machines  published 0.0721, recomputed 0.0721  (1 models)
+ok    2026-11-25 Xiaomi  published 0.0309, recomputed 0.0309  (2 models)
+ok    2026-11-25 Z.ai  published 0.1682, recomputed 0.1682  (3 models)
+ok    2026-11-25 inclusionAI  published 0.0243, recomputed 0.0243  (1 models)
+ok    2026-11-25 xAI  published 0.735, recomputed 0.735  (1 models)
 note  started since this copy's catalog (data/families.json): RTX 5090 from 2026-11-06
 note  this copy of catalog.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of method.py differs from the one that wrote the gpu manifests from 2026-10-23
 note  this copy of recompute.py differs from the one that wrote the gpu manifests from 2026-10-23
 
-879 checked, 20 do not match
+910 checked, 22 do not match
